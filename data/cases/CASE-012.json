@@ -1,0 +1,67 @@
+{
+  "case_id": "CASE-012",
+  "slug": "temu-europe-local-seller-model",
+  "title_zh": "Temu 欧洲本地卖家模式",
+  "title_en": "Temu Europe Local Seller Model",
+  "status_zh": "持续追踪",
+  "geography_label": "中国/全球→欧洲",
+  "industry_label": "跨境电商",
+  "gemca_domain_ids": [
+    "GEM-D01",
+    "GEM-D02",
+    "GEM-D05",
+    "GEM-D07",
+    "GEM-D09"
+  ],
+  "abstract_zh": "从跨境供给向本地卖家与本地履约演化，观察监管、速度与平台商业模式之间的再平衡。",
+  "sources": [
+    {
+      "label": "Temu",
+      "url": "https://www.temu.com/"
+    }
+  ],
+  "region_group": "欧洲",
+  "industry_group": "零售与电商",
+  "question_tags": [
+    "商业模式与增长",
+    "运营与供应链",
+    "风险与合规",
+    "生态与伙伴"
+  ],
+  "management_questions_zh": [
+    "跨境平台为什么会增加本地卖家与本地履约？",
+    "监管、时效与单位经济性如何共同推动模式变化？",
+    "平台全球规模如何与本地责任重新平衡？"
+  ],
+  "boundary_note_zh": "本地卖家模式的推进速度和经济效果需要持续验证，不能从模式宣布直接推断最终结果。",
+  "evidence_maturity": "起始证据集",
+  "status_code": "tracking",
+  "domain_labels_zh": [
+    "战略、组合与治理",
+    "市场、客户与商业",
+    "运营、供应链与交付",
+    "风险、合规与韧性",
+    "生态、合作与影响力"
+  ],
+  "business_model_group": "Marketplace + 本地卖家",
+  "scope_group": "区域",
+  "evidence_tier": "Seed",
+  "timeline": [],
+  "observed_facts": [],
+  "regions": [
+    "欧洲"
+  ],
+  "business_model_tags": [
+    "Marketplace",
+    "平台型"
+  ],
+  "last_reviewed_date": "2026-10-08",
+  "source_count": 1,
+  "knowledge_domains": [
+    "战略、组合与治理",
+    "市场、客户与商业",
+    "运营、供应链与交付",
+    "风险、合规与韧性",
+    "生态、合作与影响力"
+  ]
+}

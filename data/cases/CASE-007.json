@@ -1,0 +1,68 @@
+{
+  "case_id": "CASE-007",
+  "slug": "geely-volvo-cars",
+  "title_zh": "吉利 × Volvo Cars",
+  "title_en": "Geely × Volvo Cars",
+  "status_zh": "长期案例",
+  "geography_label": "中国→瑞典/全球",
+  "industry_label": "汽车",
+  "gemca_domain_ids": [
+    "GEM-D01",
+    "GEM-D03",
+    "GEM-D04",
+    "GEM-D06",
+    "GEM-D10"
+  ],
+  "abstract_zh": "以跨境所有权和品牌/组织相对独立为观察点，研究全球资产组合与协同边界。",
+  "sources": [
+    {
+      "label": "Volvo Cars",
+      "url": "https://www.volvocars.com/intl/media/"
+    }
+  ],
+  "region_group": "欧洲 / 东亚",
+  "industry_group": "汽车与出行",
+  "question_tags": [
+    "并购与整合",
+    "组织与治理",
+    "品牌与产品",
+    "学习与能力"
+  ],
+  "management_questions_zh": [
+    "全球所有权与品牌独立之间如何设置治理边界？",
+    "协同与自治如何同时存在？",
+    "跨公司学习如何避免变成单向整合？"
+  ],
+  "boundary_note_zh": "相对独立的品牌治理并非适用于所有并购；其有效性高度依赖资产质量、管理团队与战略目标。",
+  "evidence_maturity": "成熟案例简报",
+  "status_code": "established",
+  "domain_labels_zh": [
+    "战略、组合与治理",
+    "产品、品牌与本地化",
+    "组织、人才与文化",
+    "财务、资本与绩效",
+    "知识、学习与能力整合"
+  ],
+  "business_model_group": "跨境并购 + 多品牌组合",
+  "scope_group": "全球",
+  "evidence_tier": "Seed",
+  "timeline": [],
+  "observed_facts": [],
+  "regions": [
+    "欧洲",
+    "东亚"
+  ],
+  "business_model_tags": [
+    "跨境并购",
+    "多品牌经营"
+  ],
+  "last_reviewed_date": "2026-10-08",
+  "source_count": 1,
+  "knowledge_domains": [
+    "战略、组合与治理",
+    "产品、品牌与本地化",
+    "组织、人才与文化",
+    "财务、资本与绩效",
+    "知识、学习与能力整合"
+  ]
+}

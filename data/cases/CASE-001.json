@@ -1,0 +1,357 @@
+{
+  "case_id": "CASE-001",
+  "slug": "byd-hungary",
+  "title_zh": "比亚迪匈牙利",
+  "title_en": "BYD in Hungary",
+  "status_zh": "持续追踪",
+  "geography_label": "中国→匈牙利/欧洲",
+  "industry_label": "汽车/新能源车",
+  "gemca_domain_ids": [
+    "GEM-D01",
+    "GEM-D03",
+    "GEM-D04",
+    "GEM-D05",
+    "GEM-D07",
+    "GEM-D08",
+    "GEM-D09"
+  ],
+  "abstract_zh": "从整车工厂到欧洲总部与研发节点，观察制造本地化如何演化为区域经营能力。",
+  "sources": [
+    {
+      "type": "企业一手来源",
+      "date": "2023-12-22",
+      "label": "BYD：匈牙利塞格德乘用车工厂",
+      "role": "确认工厂投资与欧洲本地化生产意图",
+      "url": "https://www.byd.com/eu/news-list/BYD_to_Build_A_New_Energy_Passenger_Vehicle_Factory_in_Hungary_for_Localised_Production_in_Europe.html"
+    },
+    {
+      "type": "政府/投资促进机构",
+      "date": "2024-10-16",
+      "label": "HIPA：BYD 匈牙利供应商论坛",
+      "role": "确认 100+ 本地企业参与及供应链开发",
+      "url": "https://www.hipa.hu/news/more-than-hundred-hungarian-companies-at-byd-s-supplier-forum-in-budapest/"
+    },
+    {
+      "type": "企业一手来源",
+      "date": "2025-05-15",
+      "label": "BYD：欧洲总部与研发基地落地匈牙利",
+      "role": "确认区域管理、研发与高校合作",
+      "url": "https://www.byd.com/eu/news-list/BYD_commits_to_new_HQ_and_RD_base_in_Hungary.html"
+    },
+    {
+      "type": "独立商业媒体",
+      "date": "2025-05-15",
+      "label": "Reuters：BYD 计划在匈牙利建立欧洲中心",
+      "role": "独立确认区域中心的三类主要功能",
+      "url": "https://www.reuters.com/world/china/chinas-byd-plans-establish-european-centre-hungary-ceo-says-2025-05-15/"
+    },
+    {
+      "type": "企业一手来源",
+      "date": "2025-06-24",
+      "label": "BYD：voestalpine 成为塞格德工厂供应商",
+      "role": "确认区域供应链的具体推进",
+      "url": "https://media.byd.com/byd-announces-voestalpine-as-major-supplier-to-its-first-european-car-factory/?lang=eng"
+    },
+    {
+      "type": "独立商业媒体",
+      "date": "2025-07-22",
+      "label": "Reuters：匈牙利工厂量产推迟、初期低于规划产能",
+      "role": "提供反例和执行张力证据",
+      "url": "https://www.reuters.com/business/autos-transportation/byd-delay-mass-production-new-hungarian-plant-make-fewer-evs-sources-say-2025-07-22/"
+    },
+    {
+      "type": "独立商业媒体",
+      "date": "2026-06-09",
+      "label": "Reuters：匈牙利工厂计划于 2026 年第四季度启动组装",
+      "role": "更新量产时间与欧洲产能优先级",
+      "url": "https://www.marketscreener.com/news/byd-hungary-plant-to-start-production-in-late-2026-executive-says-ce7f5cdadc8af624"
+    },
+    {
+      "type": "独立商业媒体",
+      "date": "2026-09-14",
+      "label": "Reuters：BYD 强调长期在欧洲本地生产与服务",
+      "role": "观察本地化从乘用车延展到更完整区域经营",
+      "url": "https://www.reuters.com/business/autos-transportation/byd-produce-trucks-europe-bid-become-european-company-2026-09-14/"
+    }
+  ],
+  "region_group": "欧洲",
+  "industry_group": "汽车与出行",
+  "question_tags": [
+    "市场进入与扩张",
+    "运营与供应链",
+    "组织与治理",
+    "生态与伙伴",
+    "风险与合规"
+  ],
+  "management_questions_zh": [
+    "哪些价值活动必须本地化，哪些可以继续由中国总部集中？",
+    "制造、供应商、研发和区域管理应该按什么顺序建设？",
+    "当量产节奏与原计划不一致时，区域配置应如何重新校准？"
+  ],
+  "boundary_note_zh": "制造、研发和总部节点的增加并不自动证明区域经营已经成熟；需要继续观察组织权限、供应链深度与经营结果。",
+  "evidence_maturity": "深度案例 · 8 个来源",
+  "status_code": "tracking",
+  "domain_labels_zh": [
+    "战略、组合与治理",
+    "产品、品牌与本地化",
+    "组织、人才与文化",
+    "运营、供应链与交付",
+    "风险、合规与韧性",
+    "数据、技术与数字系统",
+    "生态、合作与影响力"
+  ],
+  "business_model_group": "制造 + 直营/经销",
+  "scope_group": "区域",
+  "evidence_tier": "Deep",
+  "timeline": [
+    [
+      "2023-12",
+      "BYD 宣布在匈牙利塞格德建设新能源乘用车生产基地，明确面向欧洲本地化生产。"
+    ],
+    [
+      "2024-10",
+      "HIPA 举办首届 BYD 匈牙利供应商论坛，100 多家本地企业参与，供应链本地化开始成为独立议题。"
+    ],
+    [
+      "2025-05",
+      "BYD 宣布将欧洲业务总部和新的研发中心设在布达佩斯，功能包括销售与售后、测试和面向欧洲市场的车型开发。"
+    ],
+    [
+      "2025-06",
+      "BYD 确认奥地利 voestalpine 为塞格德工厂的重要钢材供应商，区域供应链开始出现具体节点。"
+    ],
+    [
+      "2025-07",
+      "Reuters 报道塞格德工厂量产将延后至 2026 年，初期产能利用率可能明显低于规划，暴露本地化战略与爬坡经济性之间的张力。"
+    ],
+    [
+      "2026-06",
+      "BYD 高管对 Reuters 表示匈牙利成为当时欧洲产能建设的优先事项，计划在第四季度启动组装。"
+    ],
+    [
+      "2026-09",
+      "BYD 继续强调长期“在欧洲生产、在欧洲服务”，并讨论进一步扩展欧洲制造网络；匈牙利开始从单点工厂进入更大的区域配置问题。"
+    ]
+  ],
+  "observed_facts": [
+    "BYD 的匈牙利布局已从单一生产节点扩展到供应链、区域管理和研发。",
+    "供应商开发与研发合作显示“本地化”对象已超出最终装配。",
+    "这些节点增加仍不足以单独证明欧洲区域经营体系已经成熟。"
+  ],
+  "source_count": 8,
+  "regions": [
+    "欧洲"
+  ],
+  "business_model_tags": [
+    "制造型",
+    "经销/直营"
+  ],
+  "last_reviewed_date": "2026-10-08",
+  "last_verified_date": "2026-10-08",
+  "knowledge_domains": [
+    "战略、组合与治理",
+    "产品、品牌与本地化",
+    "组织、人才与文化",
+    "运营、供应链与交付",
+    "风险、合规与韧性",
+    "数据、技术与数字系统",
+    "生态、合作与影响力"
+  ],
+  "case_depth": "Deep",
+  "case_thesis_zh": "这不是一个“在欧洲建厂”的故事，而是一个企业把部分价值链、供应网络、研发和区域管理能力逐步推向目标市场的过程。匈牙利布局显示，当贸易壁垒、本地响应和长期市场承诺同时上升时，制造本地化可能继续演化为区域经营能力；但量产节奏的反复也提醒我们：有了工厂，并不等于经营系统已经成熟。",
+  "why_it_matters_zh": [
+    "它把“进入欧洲”和“在欧洲经营”区分开来：销售、制造、供应链、研发和区域管理不是同一个层次。",
+    "它包含一个重要反例信号：即使战略方向明确，产能爬坡、成本与区域配置仍可能重新调整。",
+    "它适合观察能力迁移的顺序：哪些能力先靠近市场，哪些仍留在总部，哪些需要等规模和生态成熟后再迁移。"
+  ],
+  "management_problem_zh": "BYD 真正要解决的并不是“要不要在匈牙利建厂”，而是：在欧洲需求、关税、本地竞争、成本和监管条件同时变化时，企业应该把多少经营活动放到欧洲、按什么顺序迁移、哪些决策仍由总部掌握，才能既提高市场响应，又不提前背上过重的固定成本和组织复杂度？",
+  "context_constraints": [
+    {
+      "dimension": "市场与竞争",
+      "analysis": "欧洲是长期战略市场，但各国需求、渠道、产品偏好和竞争格局高度分化；“欧洲”不能被当成一个单一市场。"
+    },
+    {
+      "dimension": "政策与贸易",
+      "analysis": "欧盟对中国制造电动车的贸易措施提高了本地生产的战略价值，同时未来本地内容要求可能继续改变产能与供应链选择。"
+    },
+    {
+      "dimension": "成本与产能",
+      "analysis": "本地制造可以缩短市场距离并降低部分贸易摩擦，但也带来工资、固定资产、产能利用率和爬坡效率问题。"
+    },
+    {
+      "dimension": "组织与知识",
+      "analysis": "当欧洲总部、测试和研发功能增加时，问题开始从“在哪里生产”转向“哪些信息和决策能力应该更靠近市场”。"
+    },
+    {
+      "dimension": "生态与人才",
+      "analysis": "本地供应商、大学和政府机构的参与决定了工厂能否进一步变成一个更完整的经营节点。"
+    }
+  ],
+  "critical_decisions": [
+    {
+      "id": "01",
+      "decision": "从进口销售转向欧洲本地制造",
+      "analysis": "本地制造可以降低部分贸易摩擦并提高长期市场承诺，但它同时把需求不确定性转化为固定资产和产能利用率风险。"
+    },
+    {
+      "id": "02",
+      "decision": "在工厂之外推进供应商生态",
+      "analysis": "供应商论坛和区域采购说明“本地化”开始从最终装配延伸到输入端；这决定了本地制造究竟是孤立节点，还是区域价值链的一部分。"
+    },
+    {
+      "id": "03",
+      "decision": "把欧洲总部与研发能力放到布达佩斯",
+      "analysis": "当销售、测试、研发与区域管理靠近市场，企业获得的不只是成本优势，而是更快的本地信号和更短的决策链。"
+    },
+    {
+      "id": "04",
+      "decision": "根据成本与爬坡现实调整产能节奏",
+      "analysis": "2025—2026 的计划变化表明，全球配置不是一次性设计；市场、成本、关税和执行进度会持续改变最优路径。"
+    }
+  ],
+  "operating_mechanism": {
+    "nodes": [
+      "贸易与监管摩擦上升",
+      "本地制造价值提高",
+      "供应链与工程支持向区域靠近",
+      "本地信息密度与协同需求上升",
+      "研发与区域管理能力增强",
+      "从“进入市场”走向“区域经营”"
+    ],
+    "boundary_note": "这条机制并非线性必然。产能利用率、劳动成本、需求规模和组织承接不足，都可能让“更本地”变得更贵而不是更有效。"
+  },
+  "capability_shifts": [
+    {
+      "domain": "战略、组合与治理",
+      "shift": "从单一市场进入决策，升级为欧洲多工厂、多市场和区域能力的组合配置。"
+    },
+    {
+      "domain": "组织、人才与文化",
+      "shift": "欧洲总部和研发节点意味着部分协调、测试与产品知识需要在区域内形成。"
+    },
+    {
+      "domain": "运营、供应链与交付",
+      "shift": "制造、钢材供应和本地供应商开发把欧洲从销售终端变成运营网络。"
+    },
+    {
+      "domain": "数据、技术与数字系统",
+      "shift": "欧洲研发项目把市场数据、测试和智能化技术开发拉近本地使用场景。"
+    },
+    {
+      "domain": "生态、合作与影响力",
+      "shift": "政府、大学、供应商和产业机构开始成为经营系统的一部分。"
+    }
+  ],
+  "claim_evidence_matrix": [
+    {
+      "claim": "塞格德乘用车工厂是面向欧洲本地化生产的战略节点。",
+      "statement_type": "事实",
+      "evidence": "BYD 官方公告，2023-12",
+      "confidence": "高"
+    },
+    {
+      "claim": "BYD 主动建设匈牙利本地供应商关系。",
+      "statement_type": "事实",
+      "evidence": "HIPA 供应商论坛，2024-10",
+      "confidence": "高"
+    },
+    {
+      "claim": "布达佩斯总部与研发中心承担销售、测试和本地车型开发等区域功能。",
+      "statement_type": "事实",
+      "evidence": "BYD / HIPA / Reuters，2025-05",
+      "confidence": "高"
+    },
+    {
+      "claim": "匈牙利工厂的量产和产能爬坡曾出现明显调整。",
+      "statement_type": "事实",
+      "evidence": "Reuters，2025-07；2026-06",
+      "confidence": "高"
+    },
+    {
+      "claim": "BYD 正从“欧洲销售”向“欧洲区域经营体系”迁移。",
+      "statement_type": "解释",
+      "evidence": "多事件综合判断",
+      "confidence": "中高"
+    },
+    {
+      "claim": "关键产品决策权已经大规模从中国迁往欧洲。",
+      "statement_type": "假设",
+      "evidence": "当前公开证据不足",
+      "confidence": "未确认"
+    }
+  ],
+  "known": [
+    "匈牙利布局已经超出单一工厂，覆盖供应链、区域管理、研发和人才合作。",
+    "区域本地化的价值既来自市场响应，也来自贸易与政策环境。",
+    "BYD 会根据执行和成本现实重新调整产能路径，而不是机械执行最初方案。"
+  ],
+  "unknown": [
+    "欧洲总部实际拥有多少定价、产品组合和投资决策权。",
+    "欧洲研发成果在多大程度上真正改变车型定义，而非仅承担测试与适配。",
+    "塞格德工厂长期产能利用率和盈利性是否达到最初投资逻辑。"
+  ],
+  "tensions": [
+    "更深本地化提高响应速度，但也增加固定成本和组织复杂度。",
+    "政策驱动的本地生产可能与纯成本最优配置并不一致。",
+    "区域能力越强，总部与区域之间的权责边界越需要被重新设计。"
+  ],
+  "transferability": {
+    "conditions_supporting_transfer": [
+      "目标市场具有长期战略价值，而不是短期机会。",
+      "贸易、监管或客户响应要求使本地化收益显著上升。",
+      "企业拥有足够规模、资本和组织能力支撑长期爬坡。",
+      "当地具备可连接的供应商、人才、基础设施与机构生态。"
+    ],
+    "conditions_limiting_transfer": [
+      "需求仍处于验证期、规模高度不确定。",
+      "企业只想“绕开关税”，却没有建立本地产品、组织和供应链能力的意愿。",
+      "总部治理能力不足，无法处理多区域权责与重复能力。"
+    ]
+  },
+  "counterfactuals": [
+    {
+      "alternative": "继续以进口为主",
+      "tradeoff": "固定成本更低、调整更灵活；但更容易受关税、物流和本地响应速度约束。"
+    },
+    {
+      "alternative": "只做本地制造，不增加区域研发与管理",
+      "tradeoff": "可以获得生产端收益，但市场信号仍可能经过长链条返回总部，产品与决策速度改善有限。"
+    },
+    {
+      "alternative": "一开始就全面本地化",
+      "tradeoff": "可能提前获得完整区域能力，但在需求和产能尚未验证时，会显著放大资本和组织风险。"
+    }
+  ],
+  "cross_case_learning": [
+    {
+      "title": "丰田北美本地化：肯塔基制造与管理",
+      "href": "../toyota-kentucky-localization/index.html",
+      "comparison": "比较成熟跨国企业如何从制造本地化继续走向管理和知识本地化。"
+    },
+    {
+      "title": "宁德时代匈牙利",
+      "href": "../catl-hungary/index.html",
+      "comparison": "比较同一东道国中，电池与整车企业的本地制造逻辑是否相同。"
+    },
+    {
+      "title": "海尔 × GE Appliances",
+      "href": "../haier-ge-appliances/index.html",
+      "comparison": "比较“新建区域能力”与“通过并购获得本地能力”两条不同路径。"
+    }
+  ],
+  "pattern_signal_zh": "候选模式：当市场长期价值、制度摩擦和本地响应要求同时升高时，企业往往会把制造之外的供应、工程、研发或管理能力逐步推向市场；但迁移速度必须受到规模经济和组织承接能力约束。",
+  "evidence_summary": {
+    "source_count": 8,
+    "primary_or_institutional_sources": 4,
+    "independent_sources": 4,
+    "last_verified_date": "2026-10-08",
+    "statement_types": [
+      "事实",
+      "解释",
+      "假设"
+    ]
+  },
+  "related_pattern_ids": [
+    "PAT-001"
+  ]
+}

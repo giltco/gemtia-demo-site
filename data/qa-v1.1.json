@@ -1,0 +1,16 @@
+{
+  "version": "1.1",
+  "language": "zh-CN",
+  "knowledge_domains": 10,
+  "cross_cutting_lenses": 3,
+  "case_pages": 18,
+  "library_assets": 70,
+  "broken_internal_links": 0,
+  "directory_style_internal_links": 0,
+  "case_filters_empty_options": 0,
+  "library_filters_empty_options": 0,
+  "js_syntax": "PASS",
+  "canonical_metadata": "PASS",
+  "og_url_metadata": "PASS",
+  "notes": "Public pages use a reader-first 10-domain information architecture; old 8-topic URLs are compatibility pages only."
+}

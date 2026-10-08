@@ -1,0 +1,90 @@
+{
+  "case_id": "CASE-014",
+  "slug": "ikea-india",
+  "title_zh": "IKEA 印度：产品、价格与全渠道适配",
+  "title_en": "IKEA India",
+  "status_zh": "持续追踪",
+  "status_code": "tracking",
+  "region_group": "南亚",
+  "industry_group": "家居零售",
+  "business_model_group": "直营零售 + 全渠道",
+  "scope_group": "单一市场",
+  "evidence_tier": "Developing",
+  "evidence_maturity": "发展中 · 3 个来源",
+  "abstract_zh": "IKEA 进入印度时同时处理低价位、产品组合、餐饮、门店形式、本地采购和电商触点。",
+  "gemca_domain_ids": [
+    "GEM-D02",
+    "GEM-D03",
+    "GEM-D05",
+    "GEM-D09"
+  ],
+  "question_tags": [
+    "产品与本地化",
+    "市场进入与扩张",
+    "运营与供应链",
+    "商业模式与增长"
+  ],
+  "management_questions_zh": [
+    "全球标准零售体验如何在印度价格、居住和消费情境中重构？",
+    "长期本地采购如何同时服务印度市场与全球供应网络？",
+    "大店、城市店和电商如何形成组合？"
+  ],
+  "boundary_note_zh": "IKEA 印度仍是持续演化中的市场，渠道组合和盈利性需要长期观察。",
+  "sources": [
+    {
+      "label": "IKEA：Hyderabad 首店开业安排",
+      "url": "https://www.ikea.com/in/en/newsroom/corporate-news/ikea-retail-india-moves-the-opening-date-to-9th-of-august-2018-pubfd6312b0/",
+      "type": "企业一手来源",
+      "date": "2018/2022 page",
+      "role": "确认首店与印度业务概况"
+    },
+    {
+      "label": "IKEA：Bengaluru 投资与本地采购说明",
+      "url": "https://www.ikea.com/in/en/newsroom/ikea-retail-india-moves-the-opening-date-to-9th-of-august-2018-pubc5760e9c/",
+      "type": "企业一手来源",
+      "date": "2018-10-11",
+      "role": "确认投资、低价与本地采购意图"
+    },
+    {
+      "label": "IKEA India newsroom",
+      "url": "https://www.ikea.com/in/en/newsroom/",
+      "type": "企业一手来源",
+      "date": "ongoing",
+      "role": "持续核对业务变化"
+    }
+  ],
+  "timeline": [
+    [
+      "2018",
+      "首家印度大型门店在 Hyderabad 开业。"
+    ],
+    [
+      "2018+",
+      "继续推进 Bengaluru、Mumbai 与电商/城市触点。"
+    ]
+  ],
+  "observed_facts": [
+    "IKEA 在印度的适配不仅是 SKU，还涉及价格、渠道、采购和服务触点。"
+  ],
+  "domain_labels_zh": [
+    "市场、客户与商业",
+    "产品、品牌与本地化",
+    "运营、供应链与交付",
+    "生态、合作与影响力"
+  ],
+  "regions": [
+    "南亚"
+  ],
+  "business_model_tags": [
+    "零售型",
+    "全渠道"
+  ],
+  "last_reviewed_date": "2026-10-08",
+  "source_count": 3,
+  "knowledge_domains": [
+    "市场、客户与商业",
+    "产品、品牌与本地化",
+    "运营、供应链与交付",
+    "生态、合作与影响力"
+  ]
+}

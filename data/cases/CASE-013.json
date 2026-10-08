@@ -1,0 +1,104 @@
+{
+  "case_id": "CASE-013",
+  "slug": "toyota-kentucky-localization",
+  "title_zh": "丰田北美本地化：肯塔基制造与管理",
+  "title_en": "Toyota Kentucky Localization",
+  "status_zh": "长期案例",
+  "status_code": "established",
+  "region_group": "北美",
+  "industry_group": "汽车与出行",
+  "business_model_group": "制造 + 经销网络",
+  "scope_group": "区域",
+  "evidence_tier": "Developing",
+  "evidence_maturity": "发展中 · 4 个来源",
+  "abstract_zh": "从出口到本地制造，再到北美管理本地化，观察“在当地制造”如何逐步变成“在当地经营”。",
+  "gemca_domain_ids": [
+    "GEM-D01",
+    "GEM-D04",
+    "GEM-D05",
+    "GEM-D09",
+    "GEM-D10"
+  ],
+  "question_tags": [
+    "市场进入与扩张",
+    "组织与治理",
+    "运营与供应链",
+    "学习与能力"
+  ],
+  "management_questions_zh": [
+    "本地制造什么时候只是产能安排，什么时候开始形成区域经营能力？",
+    "母工厂经验如何迁移，同时培养本地人才和管理？",
+    "社区、供应商与本地管理如何长期嵌入？"
+  ],
+  "boundary_note_zh": "丰田北美案例跨越四十年，不能把不同阶段的制度、产品与竞争条件视为不变。",
+  "sources": [
+    {
+      "label": "Toyota：1985 宣布 Kentucky 工厂",
+      "url": "https://global.toyota/en/detail/7804590",
+      "type": "企业历史一手来源",
+      "date": "1985-12-12",
+      "role": "确认投资决定"
+    },
+    {
+      "label": "Toyota：1988 Kentucky 工厂投产",
+      "url": "https://global.toyota/en/detail/7870230",
+      "type": "企业历史一手来源",
+      "date": "1988-10-07",
+      "role": "确认本地制造启动"
+    },
+    {
+      "label": "Toyota 75 Years：North America local production",
+      "url": "https://www.toyota-global.com/company/history_of_toyota/75years/text/leaping_forward_as_a_global_corporation/chapter1/section3/item3.html",
+      "type": "企业历史资料",
+      "date": "1985-1988",
+      "role": "记录建厂、培训与母工厂系统"
+    },
+    {
+      "label": "Toyota 75 Years：Localization of Management",
+      "url": "https://www.toyota-global.com/company/history_of_toyota/75years/text/leaping_forward_as_a_global_corporation/chapter4/section1/item4.html",
+      "type": "企业历史资料",
+      "date": "1990s",
+      "role": "记录北美管理本地化"
+    }
+  ],
+  "timeline": [
+    [
+      "1985",
+      "决定在 Kentucky 建设首个美国独资整车工厂。"
+    ],
+    [
+      "1988",
+      "Camry 本地量产。"
+    ],
+    [
+      "1990s",
+      "制造规模扩大并推进北美管理本地化。"
+    ]
+  ],
+  "observed_facts": [
+    "丰田在美国经营从销售/进口逐步扩展到制造、供应、人才和区域管理。"
+  ],
+  "domain_labels_zh": [
+    "战略、组合与治理",
+    "组织、人才与文化",
+    "运营、供应链与交付",
+    "生态、合作与影响力",
+    "知识、学习与能力整合"
+  ],
+  "regions": [
+    "北美"
+  ],
+  "business_model_tags": [
+    "制造型",
+    "经销网络"
+  ],
+  "last_reviewed_date": "2026-10-08",
+  "source_count": 4,
+  "knowledge_domains": [
+    "战略、组合与治理",
+    "组织、人才与文化",
+    "运营、供应链与交付",
+    "生态、合作与影响力",
+    "知识、学习与能力整合"
+  ]
+}

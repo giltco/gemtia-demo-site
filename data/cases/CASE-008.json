@@ -1,0 +1,68 @@
+{
+  "case_id": "CASE-008",
+  "slug": "xiaomi-india-localization",
+  "title_zh": "小米印度本地制造",
+  "title_en": "Xiaomi India Localization",
+  "status_zh": "持续追踪",
+  "geography_label": "中国→印度",
+  "industry_label": "消费电子",
+  "gemca_domain_ids": [
+    "GEM-D02",
+    "GEM-D03",
+    "GEM-D05",
+    "GEM-D07",
+    "GEM-D09"
+  ],
+  "abstract_zh": "从市场进入、价格定位到本地制造与渠道，观察高增长市场中的本地化深度和监管约束。",
+  "sources": [
+    {
+      "label": "Xiaomi",
+      "url": "https://www.mi.com/global/event/india/"
+    }
+  ],
+  "region_group": "南亚",
+  "industry_group": "消费电子",
+  "question_tags": [
+    "市场进入与扩张",
+    "产品与本地化",
+    "运营与供应链",
+    "风险与合规"
+  ],
+  "management_questions_zh": [
+    "高增长市场中的价格、渠道和产品本地化如何形成联动？",
+    "本地制造在成本、政策和供应链之间承担什么角色？",
+    "监管变化如何改变原有增长路径？"
+  ],
+  "boundary_note_zh": "市场份额、制造本地化与长期经营质量不是同一指标，需要分别观察。",
+  "evidence_maturity": "起始证据集",
+  "status_code": "tracking",
+  "domain_labels_zh": [
+    "市场、客户与商业",
+    "产品、品牌与本地化",
+    "运营、供应链与交付",
+    "风险、合规与韧性",
+    "生态、合作与影响力"
+  ],
+  "business_model_group": "D2C/零售 + 本地制造",
+  "scope_group": "单一市场",
+  "evidence_tier": "Seed",
+  "timeline": [],
+  "observed_facts": [],
+  "regions": [
+    "南亚"
+  ],
+  "business_model_tags": [
+    "D2C",
+    "零售型",
+    "本地制造"
+  ],
+  "last_reviewed_date": "2026-10-08",
+  "source_count": 1,
+  "knowledge_domains": [
+    "市场、客户与商业",
+    "产品、品牌与本地化",
+    "运营、供应链与交付",
+    "风险、合规与韧性",
+    "生态、合作与影响力"
+  ]
+}

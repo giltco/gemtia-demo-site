@@ -1,0 +1,96 @@
+{
+  "case_id": "CASE-017",
+  "slug": "unilever-india-innovation",
+  "title_zh": "Unilever × 印度：本地洞察与全球创新网络",
+  "title_en": "Unilever India Innovation Network",
+  "status_zh": "持续追踪",
+  "status_code": "tracking",
+  "region_group": "南亚",
+  "industry_group": "消费品",
+  "business_model_group": "品牌组合 + 本地运营公司",
+  "scope_group": "多区域",
+  "evidence_tier": "Developing",
+  "evidence_maturity": "发展中 · 4 个来源",
+  "abstract_zh": "Unilever/HUL 展示了本地消费者洞察、R&D、渠道和产品创新如何既服务印度，也进入更广泛的全球创新网络。",
+  "gemca_domain_ids": [
+    "GEM-D02",
+    "GEM-D03",
+    "GEM-D04",
+    "GEM-D08",
+    "GEM-D10"
+  ],
+  "question_tags": [
+    "产品与本地化",
+    "组织与治理",
+    "数据与技术",
+    "学习与能力"
+  ],
+  "management_questions_zh": [
+    "本地 R&D 何时只是适配中心，何时成为全球知识源？",
+    "全球品牌与本地消费者分层如何共同驱动产品组合？",
+    "AI 和数字系统如何改变本地洞察到全球产品的反馈速度？"
+  ],
+  "boundary_note_zh": "公司年报强调自身能力和成功，需与市场份额、竞争对手和外部研究交叉后再形成因果判断。",
+  "sources": [
+    {
+      "label": "Unilever Annual Report 2025",
+      "url": "https://www.unilever.com/investors/annual-report-and-accounts/",
+      "type": "公司年报",
+      "date": "2026",
+      "role": "全球策略与 India priority"
+    },
+    {
+      "label": "HUL Annual Report 2025-26",
+      "url": "https://www.hul.co.in/files/annual-report-2025-26.pdf",
+      "type": "公司年报",
+      "date": "2026",
+      "role": "印度组织、R&D、AI 与渠道"
+    },
+    {
+      "label": "HUL Innovation & R&D",
+      "url": "https://www.hul.co.in/our-company/rd-innovation/",
+      "type": "企业一手来源",
+      "date": "ongoing",
+      "role": "确认 India R&D 同时服务本地与全球品牌"
+    },
+    {
+      "label": "HUL Strategy 2025-26",
+      "url": "https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2025-2026/strategy/",
+      "type": "企业一手来源",
+      "date": "2026",
+      "role": "消费者分层、品牌与前线机器"
+    }
+  ],
+  "timeline": [
+    [
+      "2025-26",
+      "Unilever 把 India 作为重点增长地理之一；HUL 同时强化独立 India R&D 与 AI/数字能力。"
+    ]
+  ],
+  "observed_facts": [
+    "HUL 公开说明印度 R&D 团队既服务本地 50+ 品牌，也参与 Unilever 全球品牌创新。"
+  ],
+  "domain_labels_zh": [
+    "市场、客户与商业",
+    "产品、品牌与本地化",
+    "组织、人才与文化",
+    "数据、技术与数字系统",
+    "知识、学习与能力整合"
+  ],
+  "regions": [
+    "南亚"
+  ],
+  "business_model_tags": [
+    "多品牌经营",
+    "本地运营"
+  ],
+  "last_reviewed_date": "2026-10-08",
+  "source_count": 4,
+  "knowledge_domains": [
+    "市场、客户与商业",
+    "产品、品牌与本地化",
+    "组织、人才与文化",
+    "数据、技术与数字系统",
+    "知识、学习与能力整合"
+  ]
+}

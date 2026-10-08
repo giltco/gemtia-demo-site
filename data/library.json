@@ -1,0 +1,1220 @@
+[
+  {
+    "id": "LIB-001",
+    "type": "参考门户",
+    "title": "globalEDGE — Global Insights",
+    "source": "Michigan State University",
+    "url": "https://globaledge.msu.edu/global-insights",
+    "why": " 用于快速了解国家、贸易集团和行业的基础背景，并进行早期市场交叉核验。",
+    "care": " 宽泛参考不能替代最新的本地法规与行业尽调。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度"
+    ],
+    "domain_ids": [
+      "GEM-D02"
+    ]
+  },
+  {
+    "id": "LIB-002",
+    "type": "应用研究",
+    "title": "AIB Insights",
+    "source": "Academy of International Business",
+    "url": "https://www.aib.world/publications/aib-insights/",
+    "why": " 连接国际商务研究与管理实践，适合补充概念、案例和研究问题。",
+    "care": " 文章层面的证据质量和可迁移性仍需逐篇判断。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度"
+    ],
+    "domain_ids": [
+      "GEM-D08"
+    ]
+  },
+  {
+    "id": "LIB-003",
+    "type": "年度报告",
+    "title": "World Investment Report 2026",
+    "source": "UN Trade and Development (UNCTAD)",
+    "url": "https://unctad.org/publication/world-investment-report-2026-international-investment-turbulent-era",
+    "why": " 观察全球 FDI、投资政策和跨国企业经营环境变化。",
+    "care": " 宏观 FDI 只能描述环境，不能代表单个企业准备度。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度",
+      "市场选择、进入与退出"
+    ],
+    "domain_ids": [
+      "GEM-D01"
+    ]
+  },
+  {
+    "id": "LIB-004",
+    "type": "政策数据库",
+    "title": "Investment Policy Hub",
+    "source": "UN Trade and Development (UNCTAD)",
+    "url": "https://investmentpolicy.unctad.org/",
+    "why": " 查询投资法规、条约、政策措施与争端记录，适合国别尽调。",
+    "care": " 法律含义必须由合格的当地法律顾问进一步确认。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度",
+      "市场选择、进入与退出"
+    ],
+    "domain_ids": [
+      "GEM-D01",
+      "GEM-D09"
+    ]
+  },
+  {
+    "id": "LIB-005",
+    "type": "年度报告",
+    "title": "World Trade Report 2026",
+    "source": "World Trade Organization",
+    "url": "https://www.wto.org/english/res_e/publications_e/world-trade-report-2026_execsum_e.htm",
+    "why": " 理解全球贸易体系、政策扰动与制度变化。",
+    "care": " 系统级结论在不同产品、行业和国家中的影响可能完全不同。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度",
+      "市场选择、进入与退出"
+    ],
+    "domain_ids": [
+      "GEM-D03",
+      "GEM-D04"
+    ]
+  },
+  {
+    "id": "LIB-006",
+    "type": "Country benchmark",
+    "title": "Business Ready (B-READY)",
+    "source": "World Bank Group",
+    "url": "https://www.worldbank.org/en/businessready",
+    "why": " 从监管框架、公共服务和企业实际体验观察国别营商环境。",
+    "care": " B-READY 是国家营商环境基准，不是企业准备度评分。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度",
+      "市场选择、进入与退出"
+    ],
+    "domain_ids": [
+      "GEM-D02"
+    ]
+  },
+  {
+    "id": "LIB-007",
+    "type": "Firm-level dataset",
+    "title": "Enterprise Surveys",
+    "source": "World Bank Group",
+    "url": "https://www.enterprisesurveys.org/en/data",
+    "why": " 提供企业层面的融资、基础设施、竞争、监管与贸易约束证据。",
+    "care": " 调查覆盖时间和行业构成在不同经济体之间存在差异。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度",
+      "市场选择、进入与退出"
+    ],
+    "domain_ids": [
+      "GEM-D01"
+    ]
+  },
+  {
+    "id": "LIB-008",
+    "type": "Policy index",
+    "title": "FDI Regulatory Restrictiveness Index",
+    "source": "OECD",
+    "url": "https://www.oecd.org/en/data/indicators/fdi-restrictiveness.html",
+    "why": " 比较不同国家和行业的法定外资限制。",
+    "care": " 主要测量法定限制，并不能覆盖完整投资环境。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度"
+    ],
+    "domain_ids": [
+      "GEM-D01",
+      "GEM-D07"
+    ]
+  },
+  {
+    "id": "LIB-009",
+    "type": "Global value-chain data",
+    "title": "Trade in Value Added (TiVA)",
+    "source": "OECD",
+    "url": "https://www.oecd.org/en/topics/sub-issues/trade-in-value-added.html",
+    "why": " 观察全球价值链中价值真正在哪里创造，而不只看总贸易额。",
+    "care": " 数据存在时滞，需要与最新供应链事实结合。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度",
+      "市场选择、进入与退出",
+      "运营、供应链与生态"
+    ],
+    "domain_ids": [
+      "GEM-D05"
+    ]
+  },
+  {
+    "id": "LIB-010",
+    "type": "Guideline",
+    "title": "Guidelines for Multinational Enterprises on Responsible Business Conduct",
+    "source": "OECD",
+    "url": "https://www.oecd.org/en/publications/oecd-guidelines-for-multinational-enterprises-on-responsible-business-conduct_81f92357-en.html",
+    "why": " 作为跨国企业负责任经营的广泛参考。",
+    "care": " 指南不能替代具体司法辖区的法律义务。",
+    "collection": "政策与规则",
+    "topics": [
+      "全球环境与制度",
+      "市场选择、进入与退出",
+      "风险、韧性、数据与 AI"
+    ],
+    "domain_ids": [
+      "GEM-D07"
+    ]
+  },
+  {
+    "id": "LIB-011",
+    "type": "Risk outlook",
+    "title": "Global Risks Report 2026",
+    "source": "World Economic Forum",
+    "url": "https://www.weforum.org/publications/global-risks-report-2026/",
+    "why": " 用于扫描地缘、经济、环境、社会与技术风险。",
+    "care": " 基于感知的风险排序不能当作企业级概率模型。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度",
+      "市场选择、进入与退出",
+      "风险、韧性、数据与 AI"
+    ],
+    "domain_ids": [
+      "GEM-D07"
+    ]
+  },
+  {
+    "id": "LIB-012",
+    "type": "Innovation benchmark",
+    "title": "Global Innovation Index 2026",
+    "source": "World Intellectual Property Organization",
+    "url": "https://www.wipo.int/en/web/global-innovation-index/2026/index",
+    "why": " 比较不同国家的创新投入、产出与生态条件。",
+    "care": " 综合指数会简化复杂创新系统，使用前需要拆解指标。",
+    "collection": "数据与机构",
+    "topics": [
+      "客户、产品与本地适配"
+    ],
+    "domain_ids": [
+      "GEM-D03",
+      "GEM-D04"
+    ]
+  },
+  {
+    "id": "LIB-013",
+    "type": "Macro outlook",
+    "title": "World Economic Outlook — April 2026",
+    "source": "International Monetary Fund",
+    "url": "https://www.imf.org/en/Publications/WEO/Issues/2026/04/14/world-economic-outlook-april-2026",
+    "why": " 用于宏观增长、通胀与情景压力测试。",
+    "care": " 预测会持续更新，中心情景不是确定性结果。",
+    "collection": "数据与机构",
+    "topics": [
+      "财务、资本与经营绩效"
+    ],
+    "domain_ids": [
+      "GEM-D06"
+    ]
+  },
+  {
+    "id": "LIB-014",
+    "type": "Trade database",
+    "title": "Trade Map",
+    "source": "International Trade Centre",
+    "url": "https://www.trademap.org/selectionmenu.aspx",
+    "why": " 观察产品级贸易流、市场份额和市场结构。",
+    "care": " 贸易流吸引力不等于可触达需求或可获得份额。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度",
+      "市场选择、进入与退出"
+    ],
+    "domain_ids": [
+      "GEM-D02",
+      "GEM-D03"
+    ]
+  },
+  {
+    "id": "LIB-015",
+    "type": "Market guide",
+    "title": "Country Commercial Guides",
+    "source": "U.S. International Trade Administration",
+    "url": "https://www.trade.gov/usg-resources-market-intelligence",
+    "why": " 提供国家商业环境、监管、商业习惯和进入路径的实践信息。",
+    "care": " 主要服务美国出口商，其他国家企业需要调整语境。",
+    "collection": "政策与规则",
+    "topics": [
+      "全球环境与制度",
+      "市场选择、进入与退出"
+    ],
+    "domain_ids": [
+      "GEM-D02"
+    ]
+  },
+  {
+    "id": "LIB-016",
+    "type": "Trade operations portal",
+    "title": "Access2Markets",
+    "source": "European Commission",
+    "url": "https://trade.ec.europa.eu/access-to-markets/en/my-trade-assistant",
+    "why": " 查询欧盟相关关税、原产地、税费、程序和产品要求。",
+    "care": " 最终仍需核验适用的正式法律和海关来源。",
+    "collection": "政策与规则",
+    "topics": [
+      "全球环境与制度"
+    ],
+    "domain_ids": [
+      "GEM-D02",
+      "GEM-D03"
+    ]
+  },
+  {
+    "id": "LIB-017",
+    "type": "Governance indicator",
+    "title": "Corruption Perceptions Index 2025",
+    "source": "Transparency International",
+    "url": "https://www.transparency.org/en/cpi/2025",
+    "why": " 用于国家层面的公共部门腐败风险背景扫描。",
+    "care": " 国家感知指标不能判断某个具体伙伴或交易的廉洁程度。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度",
+      "市场选择、进入与退出",
+      "风险、韧性、数据与 AI"
+    ],
+    "domain_ids": [
+      "GEM-D07"
+    ]
+  },
+  {
+    "id": "LIB-018",
+    "type": "Logistics benchmark",
+    "title": "Logistics Performance Index",
+    "source": "World Bank Group",
+    "url": "https://lpi.worldbank.org/",
+    "why": " 比较海关、基础设施、运输可靠性与物流能力。",
+    "care": " 具体路线、运输方式和产品的物流表现可能明显不同。",
+    "collection": "数据与机构",
+    "topics": [
+      "运营、供应链与生态"
+    ],
+    "domain_ids": [
+      "GEM-D03",
+      "GEM-D05",
+      "GEM-D06"
+    ]
+  },
+  {
+    "id": "LIB-019",
+    "type": "Labour data",
+    "title": "ILOSTAT",
+    "source": "International Labour Organization",
+    "url": "https://ilostat.ilo.org/data/",
+    "why": " 提供劳动力、就业和参与率等可比数据。",
+    "care": " 国家劳动力指标不能替代岗位级人才供给与薪酬研究。",
+    "collection": "数据与机构",
+    "topics": [
+      "运营、供应链与生态"
+    ],
+    "domain_ids": [
+      "GEM-D04"
+    ]
+  },
+  {
+    "id": "LIB-020",
+    "type": "经典文章",
+    "title": "Distance Still Matters: The Hard Reality of Global Expansion",
+    "source": "Pankaj Ghemawat · Harvard Business Review",
+    "url": "https://hbr.org/2001/09/distance-still-matters-the-hard-reality-of-global-expansion",
+    "why": " 用文化、行政、地理和经济距离重新审视海外市场吸引力，是理解“市场规模不等于可经营机会”的经典入口。",
+    "care": " CAGE 是分析镜头，不是自动化市场选择公式；具体行业与企业条件仍需单独验证。",
+    "collection": "理论与经典",
+    "topics": [
+      "全球环境与制度"
+    ],
+    "domain_ids": [
+      "GEM-D01",
+      "GEM-D02"
+    ]
+  },
+  {
+    "id": "LIB-021",
+    "type": "经典研究",
+    "title": "The Uppsala Internationalization Process Model Revisited",
+    "source": "Jan Johanson & Jan-Erik Vahlne · Journal of International Business Studies",
+    "url": "https://doi.org/10.1057/jibs.2009.24",
+    "why": " 理解国际化如何通过关系、承诺、经验与知识逐步演进，并把“网络外部性”纳入企业国际化过程。",
+    "care": " 过程模型能够解释渐进学习，但并不意味着所有企业都按同一种顺序国际化。",
+    "collection": "理论与经典",
+    "topics": [
+      "学习、复制与能力演进"
+    ],
+    "domain_ids": [
+      "GEM-D10"
+    ]
+  },
+  {
+    "id": "LIB-022",
+    "type": "经典著作",
+    "title": "Managing Across Borders: The Transnational Solution",
+    "source": "Christopher A. Bartlett & Sumantra Ghoshal",
+    "url": "https://books.google.com/books/about/Managing_Across_Borders.html?id=rRQnEbhHm8MC",
+    "why": " 理解全球效率、本地响应和跨国学习如何同时成为跨国组织的管理要求。",
+    "care": " 经典组织模型建立于特定历史样本，应用到数字平台、轻资产与新兴市场企业时需要重新检验。",
+    "collection": "理论与经典",
+    "topics": [
+      "组织、治理与人才"
+    ],
+    "domain_ids": [
+      "GEM-D02",
+      "GEM-D04"
+    ]
+  },
+  {
+    "id": "LIB-023",
+    "type": "经典研究",
+    "title": "Explicating Dynamic Capabilities",
+    "source": "David J. Teece · Strategic Management Journal",
+    "url": "https://doi.org/10.1002/smj.640",
+    "why": " 帮助理解企业如何感知变化、把握机会并重构资源，是讨论“能力如何形成和更新”的重要基础。",
+    "care": " 动态能力是高层解释框架，不能直接替代具体业务能力的定义与证据。",
+    "collection": "理论与经典",
+    "topics": [
+      "学习、复制与能力演进"
+    ],
+    "domain_ids": [
+      "GEM-D10"
+    ]
+  },
+  {
+    "id": "LIB-024",
+    "type": "经典研究",
+    "title": "Organizational Legitimacy Under Conditions of Complexity",
+    "source": "Tatiana Kostova & Srilata Zaheer · Academy of Management Review",
+    "url": "https://journals.aom.org/doi/10.5465/AMR.1999.1580441",
+    "why": " 帮助理解跨国企业在不同制度环境中面对的合法性复杂性，以及整体与本地单元之间的相互影响。",
+    "care": " 理论命题不能直接等同于某一企业在特定国家的监管或声誉风险判断。",
+    "collection": "理论与经典",
+    "topics": [
+      "组织、治理与人才"
+    ],
+    "domain_ids": [
+      "GEM-D04",
+      "GEM-D09"
+    ]
+  },
+  {
+    "id": "LIB-025",
+    "type": "经典著作",
+    "title": "The Multinational Mission: Balancing Local Demands and Global Vision",
+    "source": "C. K. Prahalad & Yves L. Doz",
+    "url": "https://books.google.com/books/about/The_Multinational_Mission.html?id=whFPAAAAMAAJ",
+    "why": " 是理解全球整合与本地响应张力的经典来源之一，适合与全球产品、组织和市场适配问题一起阅读。",
+    "care": " 经典框架提供的是张力结构，不应被简化为“统一”或“本地化”二选一。",
+    "collection": "理论与经典",
+    "topics": [
+      "组织、治理与人才"
+    ],
+    "domain_ids": [
+      "GEM-D02",
+      "GEM-D03"
+    ]
+  },
+  {
+    "id": "LIB-026",
+    "type": "核心期刊",
+    "title": "Journal of International Business Studies",
+    "source": "Academy of International Business / Springer Nature",
+    "url": "https://link.springer.com/journal/41267",
+    "why": "国际商务领域的核心学术期刊，覆盖跨国企业、制度、战略、组织与国际化过程。",
+    "care": "期刊本身不是单一理论来源，具体判断应回到文章层。",
+    "collection": "理论与经典",
+    "topics": [
+      "全球环境与制度",
+      "组织、治理与人才",
+      "学习、复制与能力演进"
+    ],
+    "domain_ids": [
+      "GEM-D01"
+    ]
+  },
+  {
+    "id": "LIB-027",
+    "type": "学术议程",
+    "title": "AIB 2026 Research Tracks",
+    "source": "Academy of International Business",
+    "url": "https://www.aib.world/events/2026-annual-meeting/contribute/call-for-papers/",
+    "why": "观察当前国际商务研究的正式问题边界，包括战略、组织、GVC、HRM、新兴市场与可持续经营。",
+    "care": "会议 Track 代表研究议程，不等于学界对所有问题已有共识。",
+    "collection": "当代学术",
+    "topics": [
+      "全球环境与制度",
+      "运营、供应链与生态",
+      "组织、治理与人才"
+    ],
+    "domain_ids": [
+      "GEM-D01",
+      "GEM-D02",
+      "GEM-D08"
+    ]
+  },
+  {
+    "id": "LIB-028",
+    "type": "综述研究",
+    "title": "Foreignness research in international business: Major streams and future directions",
+    "source": "Journal of International Business Studies",
+    "url": "https://link.springer.com/article/10.1057/s41267-021-00465-8",
+    "why": "系统梳理“外来者劣势/优势”、制度距离与身份管理，是理解跨市场合法性的重要综述。",
+    "care": "Foreignness 是多流派概念，不能被简化成单一国家风险分数。",
+    "collection": "当代学术",
+    "topics": [
+      "全球环境与制度",
+      "市场选择、进入与退出",
+      "风险、韧性、数据与 AI"
+    ],
+    "domain_ids": [
+      "GEM-D02"
+    ]
+  },
+  {
+    "id": "LIB-029",
+    "type": "综述研究",
+    "title": "Managing the MNE subsidiary: Advancing a multi-level and dynamic research agenda",
+    "source": "Journal of International Business Studies",
+    "url": "https://link.springer.com/article/10.1057/s41267-020-00318-w",
+    "why": "理解海外子公司角色、嵌入、授权与能力演化，连接总部—区域—本地组织问题。",
+    "care": "子公司角色高度依赖企业、行业和所在国情境，不能机械套用类型。",
+    "collection": "当代学术",
+    "topics": [
+      "组织、治理与人才",
+      "学习、复制与能力演进"
+    ],
+    "domain_ids": [
+      "GEM-D04"
+    ]
+  },
+  {
+    "id": "LIB-030",
+    "type": "理论研究",
+    "title": "Internalization theory for the digital economy",
+    "source": "Journal of International Business Studies",
+    "url": "https://link.springer.com/article/10.1057/s41267-019-00243-7",
+    "why": "讨论数字经济条件下企业边界、知识与跨境内部化逻辑。",
+    "care": "数字平台并没有消除制度和地域边界，应用时仍需结合监管与商业模式。",
+    "collection": "当代学术",
+    "topics": [
+      "风险、韧性、数据与 AI",
+      "市场选择、进入与退出"
+    ],
+    "domain_ids": [
+      "GEM-D08"
+    ]
+  },
+  {
+    "id": "LIB-031",
+    "type": "理论研究",
+    "title": "The structural reshaping of globalization",
+    "source": "Journal of International Business Studies",
+    "url": "https://link.springer.com/article/10.1057/s41267-019-00269-x",
+    "why": "用于理解全球化结构变化、战略产业、国家角色与跨国企业重新配置。",
+    "care": "宏观结构判断不直接等同于企业应该进入或退出某个国家。",
+    "collection": "当代学术",
+    "topics": [
+      "全球环境与制度",
+      "市场选择、进入与退出"
+    ],
+    "domain_ids": [
+      "GEM-D01"
+    ]
+  },
+  {
+    "id": "LIB-032",
+    "type": "经典文章",
+    "title": "Strategies That Fit Emerging Markets",
+    "source": "Tarun Khanna, Krishna Palepu & Jayant Sinha · Harvard Business Review",
+    "url": "https://hbr.org/2005/06/strategies-that-fit-emerging-markets",
+    "why": "把“制度空缺”转化为企业市场进入与经营设计问题。",
+    "care": "HBR 文章是管理框架，不应替代具体国家的制度与行业证据。",
+    "collection": "理论与经典",
+    "topics": [
+      "全球环境与制度",
+      "市场选择、进入与退出",
+      "客户、产品与本地适配"
+    ],
+    "domain_ids": [
+      "GEM-D02",
+      "GEM-D03"
+    ]
+  },
+  {
+    "id": "LIB-033",
+    "type": "经典著作",
+    "title": "Winning in Emerging Markets",
+    "source": "Tarun Khanna & Krishna Palepu",
+    "url": "https://store.hbr.org/product/winning-in-emerging-markets-a-road-map-for-strategy-and-execution/13216",
+    "why": "把新兴市场的制度结构、机会识别和执行连接起来。",
+    "care": "主要聚焦新兴市场，不应作为成熟经济体经营问题的通用解释。",
+    "collection": "理论与经典",
+    "topics": [
+      "全球环境与制度",
+      "市场选择、进入与退出"
+    ],
+    "domain_ids": [
+      "GEM-D02"
+    ]
+  },
+  {
+    "id": "LIB-034",
+    "type": "经典研究",
+    "title": "The Limits to Globalization and the Regional Strategies of Multinational Enterprises",
+    "source": "Alan M. Rugman & Alain Verbeke",
+    "url": "https://link.springer.com/book/9783409142403",
+    "why": "强调多数跨国企业经营的区域性，提醒“全球”不等于均匀覆盖世界。",
+    "care": "区域化是经验规律和理论视角，不代表所有数字业务或利基企业都同样受限。",
+    "collection": "理论与经典",
+    "topics": [
+      "市场选择、进入与退出",
+      "运营、供应链与生态"
+    ],
+    "domain_ids": [
+      "GEM-D01",
+      "GEM-D08"
+    ]
+  },
+  {
+    "id": "LIB-035",
+    "type": "当代研究",
+    "title": "Revisiting the Springboard Perspective",
+    "source": "Management and Organization Review",
+    "url": "https://www.cambridge.org/core/journals/management-and-organization-review/article/abs/revisiting-the-springboard-perspective-marketseeking-internationalization-dynamic-capabilities-and-digital-transformation-of-emerging-market-firms/DE9E855C7E5494D4AF66C706CC639208",
+    "why": "重新审视新兴市场企业如何通过国际化获得能力，并连接数字化转型。",
+    "care": "Springboard 适合解释部分后发企业，不应作为所有中国/新兴市场企业的默认逻辑。",
+    "collection": "当代学术",
+    "topics": [
+      "市场选择、进入与退出",
+      "学习、复制与能力演进"
+    ],
+    "domain_ids": [
+      "GEM-D02",
+      "GEM-D04"
+    ]
+  },
+  {
+    "id": "LIB-036",
+    "type": "当代研究",
+    "title": "International strategies of emerging market multinationals: A dynamic capabilities perspective",
+    "source": "Journal of Management & Organization",
+    "url": "https://www.cambridge.org/core/journals/journal-of-management-and-organization/article/international-strategies-of-emerging-market-multinationals-a-dynamic-capabilities-perspective/9E907DA7F858185A4F0278A13AD04892",
+    "why": "连接新兴市场跨国企业国际化、能力获取与动态能力。",
+    "care": "动态能力是解释层，不等于企业已经具备具体经营能力。",
+    "collection": "当代学术",
+    "topics": [
+      "市场选择、进入与退出",
+      "学习、复制与能力演进"
+    ],
+    "domain_ids": [
+      "GEM-D02",
+      "GEM-D04",
+      "GEM-D10"
+    ]
+  },
+  {
+    "id": "LIB-037",
+    "type": "数据门户",
+    "title": "World Development Indicators",
+    "source": "World Bank Group",
+    "url": "https://databank.worldbank.org/source/world-development-indicators",
+    "why": "提供人口、收入、基础设施、贸易等国家级背景数据。",
+    "care": "国家平均值不能代替目标客户、城市、行业或企业层面的判断。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度",
+      "市场选择、进入与退出"
+    ],
+    "domain_ids": [
+      "GEM-D01"
+    ]
+  },
+  {
+    "id": "LIB-038",
+    "type": "治理数据",
+    "title": "Worldwide Governance Indicators",
+    "source": "World Bank Group",
+    "url": "https://www.worldbank.org/en/publication/worldwide-governance-indicators",
+    "why": "用于比较治理质量、法治、监管质量等制度背景。",
+    "care": "治理指标是聚合估计，不能直接预测具体企业的监管结果。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度",
+      "风险、韧性、数据与 AI"
+    ],
+    "domain_ids": [
+      "GEM-D01",
+      "GEM-D07"
+    ]
+  },
+  {
+    "id": "LIB-039",
+    "type": "贸易数据",
+    "title": "UN Comtrade",
+    "source": "United Nations Statistics Division",
+    "url": "https://comtradeplus.un.org/",
+    "why": "用于查询产品级国际贸易流和伙伴结构。",
+    "care": "贸易流量不能直接解释利润、品牌力或客户需求。",
+    "collection": "数据与机构",
+    "topics": [
+      "市场选择、进入与退出",
+      "运营、供应链与生态"
+    ],
+    "domain_ids": [
+      "GEM-D03",
+      "GEM-D05"
+    ]
+  },
+  {
+    "id": "LIB-040",
+    "type": "产业数据",
+    "title": "UNIDO Statistics Portal",
+    "source": "United Nations Industrial Development Organization",
+    "url": "https://stat.unido.org/",
+    "why": "补充制造业、工业结构与产业发展数据。",
+    "care": "工业统计的口径和更新频率需在跨国比较前核验。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度",
+      "运营、供应链与生态"
+    ],
+    "domain_ids": [
+      "GEM-D04",
+      "GEM-D05"
+    ]
+  },
+  {
+    "id": "LIB-041",
+    "type": "贸易数据",
+    "title": "WTO Statistics",
+    "source": "World Trade Organization",
+    "url": "https://stats.wto.org/",
+    "why": "提供全球贸易、关税和服务贸易等数据入口。",
+    "care": "WTO 数据适合结构判断，不等于企业层面的市场可达性。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度",
+      "市场选择、进入与退出"
+    ],
+    "domain_ids": [
+      "GEM-D02",
+      "GEM-D04"
+    ]
+  },
+  {
+    "id": "LIB-042",
+    "type": "宏观数据",
+    "title": "IMF Data",
+    "source": "International Monetary Fund",
+    "url": "https://www.imf.org/en/Data",
+    "why": "用于宏观、金融、国际收支和汇率相关背景研究。",
+    "care": "宏观稳定不代表具体行业或企业的经营风险低。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度",
+      "财务、资本与经营绩效"
+    ],
+    "domain_ids": [
+      "GEM-D06",
+      "GEM-D08"
+    ]
+  },
+  {
+    "id": "LIB-043",
+    "type": "数据门户",
+    "title": "OECD Data Explorer",
+    "source": "OECD",
+    "url": "https://data-explorer.oecd.org/",
+    "why": "提供贸易、投资、生产率、税收、产业等跨国可比数据。",
+    "care": "OECD 覆盖更偏高收入经济体，使用时注意样本边界。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度",
+      "财务、资本与经营绩效"
+    ],
+    "domain_ids": [
+      "GEM-D06",
+      "GEM-D08"
+    ]
+  },
+  {
+    "id": "LIB-044",
+    "type": "知识产权数据",
+    "title": "WIPO IP Statistics",
+    "source": "World Intellectual Property Organization",
+    "url": "https://www.wipo.int/ipstats/en/",
+    "why": "用于观察专利、商标与知识产权活动。",
+    "care": "申请量不等于创新质量，也不能直接说明商业化能力。",
+    "collection": "数据与机构",
+    "topics": [
+      "客户、产品与本地适配",
+      "风险、韧性、数据与 AI"
+    ],
+    "domain_ids": [
+      "GEM-D03",
+      "GEM-D04"
+    ]
+  },
+  {
+    "id": "LIB-045",
+    "type": "统计门户",
+    "title": "UNCTADstat",
+    "source": "UN Trade and Development",
+    "url": "https://unctadstat.unctad.org/",
+    "why": "提供 FDI、贸易、海运、数字经济等跨国统计。",
+    "care": "不同专题数据的更新时间和口径需分别检查。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度",
+      "市场选择、进入与退出"
+    ],
+    "domain_ids": [
+      "GEM-D01"
+    ]
+  },
+  {
+    "id": "LIB-046",
+    "type": "市场准入工具",
+    "title": "Market Access Map",
+    "source": "International Trade Centre",
+    "url": "https://www.macmap.org/",
+    "why": "查询关税、贸易协定和市场准入条件。",
+    "care": "关税只是市场准入的一部分，还需核验标准、许可和非关税措施。",
+    "collection": "政策与规则",
+    "topics": [
+      "市场选择、进入与退出",
+      "风险、韧性、数据与 AI"
+    ],
+    "domain_ids": [
+      "GEM-D02"
+    ]
+  },
+  {
+    "id": "LIB-047",
+    "type": "经济展望",
+    "title": "Global Economic Prospects",
+    "source": "World Bank Group",
+    "url": "https://www.worldbank.org/en/publication/global-economic-prospects",
+    "why": "提供全球与地区宏观增长和风险判断。",
+    "care": "预测不是确定性事实，应与实时政策和行业数据交叉。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度",
+      "财务、资本与经营绩效"
+    ],
+    "domain_ids": [
+      "GEM-D01"
+    ]
+  },
+  {
+    "id": "LIB-048",
+    "type": "企业调查",
+    "title": "World Bank Enterprise Surveys — Topics",
+    "source": "World Bank Group",
+    "url": "https://www.enterprisesurveys.org/en/data/exploretopics",
+    "why": "从企业层面观察融资、基础设施、腐败、劳动力与经营障碍。",
+    "care": "样本调查不能直接代表某一具体企业的体验。",
+    "collection": "数据与机构",
+    "topics": [
+      "全球环境与制度",
+      "运营、供应链与生态"
+    ],
+    "domain_ids": [
+      "GEM-D01"
+    ]
+  },
+  {
+    "id": "LIB-049",
+    "type": "企业高管调查",
+    "title": "29th Global CEO Survey 2026",
+    "source": "PwC",
+    "url": "https://www.pwc.com/gx/en/1/issues/c-suite-insights/ceo-survey.html",
+    "why": "观察全球 CEO 对 AI、宏观波动、网络安全和地缘冲突的当前议程。",
+    "care": "高管感知调查适合识别议题，不是因果证据。",
+    "collection": "高管与实践",
+    "topics": [
+      "全球环境与制度",
+      "风险、韧性、数据与 AI",
+      "学习、复制与能力演进"
+    ],
+    "domain_ids": [
+      "GEM-D06",
+      "GEM-D08"
+    ]
+  },
+  {
+    "id": "LIB-050",
+    "type": "就业与技能报告",
+    "title": "Future of Jobs Report 2025",
+    "source": "World Economic Forum",
+    "url": "https://www.weforum.org/publications/the-future-of-jobs-report-2025/",
+    "why": "连接技术、人才、技能和组织变化。",
+    "care": "全球调查的岗位趋势不能直接替代国家和企业级人才规划。",
+    "collection": "高管与实践",
+    "topics": [
+      "组织、治理与人才",
+      "风险、韧性、数据与 AI"
+    ],
+    "domain_ids": [
+      "GEM-D04"
+    ]
+  },
+  {
+    "id": "LIB-051",
+    "type": "风险框架",
+    "title": "OECD Due Diligence Guidance for Responsible Business Conduct",
+    "source": "OECD",
+    "url": "https://www.oecd.org/en/publications/oecd-due-diligence-guidance-for-responsible-business-conduct_15f5f4b3-en.html",
+    "why": "把供应链、人权和责任经营转化为尽职调查流程。",
+    "care": "指南提供规范性框架，不代替所在法域的强制法律义务。",
+    "collection": "政策与规则",
+    "topics": [
+      "运营、供应链与生态",
+      "风险、韧性、数据与 AI"
+    ],
+    "domain_ids": [
+      "GEM-D05",
+      "GEM-D07",
+      "GEM-D09"
+    ]
+  },
+  {
+    "id": "LIB-052",
+    "type": "合规门户",
+    "title": "EU Digital Services Act",
+    "source": "European Commission",
+    "url": "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package",
+    "why": "数字平台在欧盟的治理、透明与责任要求。",
+    "care": "只适用于相关主体和服务，具体义务需按企业角色核验。",
+    "collection": "政策与规则",
+    "topics": [
+      "风险、韧性、数据与 AI"
+    ],
+    "domain_ids": [
+      "GEM-D08"
+    ]
+  },
+  {
+    "id": "LIB-053",
+    "type": "数据规则",
+    "title": "EU GDPR Portal",
+    "source": "European Commission",
+    "url": "https://commission.europa.eu/law/law-topic/data-protection/data-protection-eu_en",
+    "why": "跨境数据和隐私经营的重要规则入口。",
+    "care": "GDPR 不是全球统一的数据规则，其他法域要求不同。",
+    "collection": "政策与规则",
+    "topics": [
+      "风险、韧性、数据与 AI"
+    ],
+    "domain_ids": [
+      "GEM-D07",
+      "GEM-D08"
+    ]
+  },
+  {
+    "id": "LIB-054",
+    "type": "贸易规则",
+    "title": "WTO Trade Policy Reviews",
+    "source": "World Trade Organization",
+    "url": "https://www.wto.org/english/tratop_e/tpr_e/tpr_e.htm",
+    "why": "理解成员经济体贸易政策、制度和近期变化。",
+    "care": "评审周期较长，快速变化政策需要补充实时官方来源。",
+    "collection": "政策与规则",
+    "topics": [
+      "全球环境与制度",
+      "市场选择、进入与退出"
+    ],
+    "domain_ids": [
+      "GEM-D04"
+    ]
+  },
+  {
+    "id": "LIB-055",
+    "type": "投资规则",
+    "title": "OECD Investment Policy",
+    "source": "OECD",
+    "url": "https://www.oecd.org/en/topics/investment.html",
+    "why": "连接投资政策、FDI、责任经营与国家政策比较。",
+    "care": "OECD 政策资料偏框架和成员视角，需结合当地正式法规。",
+    "collection": "政策与规则",
+    "topics": [
+      "全球环境与制度",
+      "财务、资本与经营绩效"
+    ],
+    "domain_ids": [
+      "GEM-D01",
+      "GEM-D09"
+    ]
+  },
+  {
+    "id": "LIB-056",
+    "type": "经典研究",
+    "title": "Overcoming the Liability of Foreignness",
+    "source": "Srilata Zaheer · Academy of Management Journal",
+    "url": "https://doi.org/10.2307/256683",
+    "why": "经典地说明海外单元相对本地企业可能承担额外成本。",
+    "care": "外来者劣势会随企业、行业、时间和身份管理发生变化。",
+    "collection": "理论与经典",
+    "topics": [
+      "全球环境与制度",
+      "组织、治理与人才"
+    ],
+    "domain_ids": [
+      "GEM-D04"
+    ]
+  },
+  {
+    "id": "LIB-057",
+    "type": "经典研究",
+    "title": "Building Theories from Case Study Research",
+    "source": "Kathleen M. Eisenhardt · Academy of Management Review",
+    "url": "https://doi.org/10.5465/amr.1989.4308385",
+    "why": "案例研究如何从多案例比较形成理论，是 GEMTIA Case→Pattern 逻辑的重要方法来源。",
+    "care": "方法论强调系统比较，不意味着少量案例即可证明普遍规律。",
+    "collection": "研究方法",
+    "topics": [
+      "学习、复制与能力演进"
+    ],
+    "domain_ids": [
+      "GEM-D10"
+    ]
+  },
+  {
+    "id": "LIB-058",
+    "type": "研究方法",
+    "title": "Case Study Research and Applications",
+    "source": "Robert K. Yin · SAGE",
+    "url": "https://us.sagepub.com/en-us/nam/case-study-research-and-applications/book250150",
+    "why": "用于设计案例问题、证据链、边界与分析单元。",
+    "care": "案例研究设计需要与研究问题匹配，不是所有商业故事都属于 case study。",
+    "collection": "研究方法",
+    "topics": [
+      "学习、复制与能力演进"
+    ],
+    "domain_ids": [
+      "GEM-D10"
+    ]
+  },
+  {
+    "id": "LIB-059",
+    "type": "研究方法",
+    "title": "Seeking Qualitative Rigor in Inductive Research: Notes on the Gioia Methodology",
+    "source": "Organizational Research Methods",
+    "url": "https://doi.org/10.1177/1094428112452151",
+    "why": "帮助区分一阶材料、二阶解释与聚合维度，适合知识抽取与解释透明度。",
+    "care": "Gioia 方法不是所有质性研究的唯一标准。",
+    "collection": "研究方法",
+    "topics": [
+      "学习、复制与能力演进"
+    ],
+    "domain_ids": [
+      "GEM-D04",
+      "GEM-D10"
+    ]
+  },
+  {
+    "id": "LIB-060",
+    "type": "研究规范",
+    "title": "PRISMA 2020",
+    "source": "PRISMA Statement",
+    "url": "https://www.prisma-statement.org/prisma-2020",
+    "why": "系统综述的透明检索、筛选和报告规范。",
+    "care": "GEMTIA 的一般资料整理不等同于正式系统综述；只有声明时才需完整遵循。",
+    "collection": "研究方法",
+    "topics": [
+      "学习、复制与能力演进"
+    ],
+    "domain_ids": [
+      "GEM-D01"
+    ]
+  },
+  {
+    "id": "LIB-061",
+    "type": "文献基础设施",
+    "title": "Crossref",
+    "source": "Crossref",
+    "url": "https://www.crossref.org/",
+    "why": "核验 DOI、作者、出版物和引用元数据。",
+    "care": "元数据正确不等于研究结论可靠，仍需阅读原文。",
+    "collection": "研究方法",
+    "topics": [
+      "学习、复制与能力演进"
+    ],
+    "domain_ids": [
+      "GEM-D10"
+    ]
+  },
+  {
+    "id": "LIB-062",
+    "type": "开放研究图谱",
+    "title": "OpenAlex",
+    "source": "OurResearch",
+    "url": "https://openalex.org/",
+    "why": "用于发现学术文献、作者、机构和主题关系。",
+    "care": "自动主题与引用图谱存在分类噪声，关键引用需要人工核验。",
+    "collection": "研究方法",
+    "topics": [
+      "学习、复制与能力演进"
+    ],
+    "domain_ids": [
+      "GEM-D08",
+      "GEM-D10"
+    ]
+  },
+  {
+    "id": "LIB-063",
+    "type": "研究工具",
+    "title": "Zotero",
+    "source": "Corporation for Digital Scholarship",
+    "url": "https://www.zotero.org/",
+    "why": "用于管理来源、引用与研究资料。",
+    "care": "工具提升可追溯性，但不能替代来源判断和证据审查。",
+    "collection": "研究方法",
+    "topics": [
+      "学习、复制与能力演进"
+    ],
+    "domain_ids": [
+      "GEM-D08",
+      "GEM-D10"
+    ]
+  },
+  {
+    "id": "LIB-064",
+    "type": "经典研究",
+    "title": "The Internationalization Process of the Firm",
+    "source": "Johanson & Vahlne · Journal of International Business Studies",
+    "url": "https://link.springer.com/article/10.1057/palgrave.jibs.8490676",
+    "why": "Uppsala 模型的早期基础，用市场知识与承诺解释国际化的渐进演化。",
+    "care": "数字企业、并购型扩张和后发跨国企业可能呈现不同路径。",
+    "collection": "理论与经典",
+    "topics": [
+      "市场选择、进入与退出",
+      "学习、复制与能力演进"
+    ],
+    "domain_ids": [
+      "GEM-D02",
+      "GEM-D10"
+    ]
+  },
+  {
+    "id": "LIB-065",
+    "type": "理论综述",
+    "title": "A review of location, politics, and the multinational corporation",
+    "source": "Journal of International Business Studies",
+    "url": "https://link.springer.com/article/10.1057/s41267-023-00601-6",
+    "why": "把地点、政治地理与跨国企业重新连接，适合当前地缘经济环境。",
+    "care": "政治地理视角扩展了位置分析，但不自动给出企业决策答案。",
+    "collection": "当代学术",
+    "topics": [
+      "全球环境与制度",
+      "市场选择、进入与退出"
+    ],
+    "domain_ids": [
+      "GEM-D01"
+    ]
+  },
+  {
+    "id": "LIB-066",
+    "type": "生态研究",
+    "title": "More than intent: A bundling model of MNE–SME interactions",
+    "source": "Journal of International Business Studies",
+    "url": "https://link.springer.com/article/10.1057/s41267-020-00352-8",
+    "why": "理解跨国企业与中小伙伴如何按内容、分销与价值链能力形成合作。",
+    "care": "合作结构取决于规模经济与互补资源，不应把所有伙伴关系看成生态共创。",
+    "collection": "当代学术",
+    "topics": [
+      "运营、供应链与生态"
+    ],
+    "domain_ids": [
+      "GEM-D05",
+      "GEM-D09"
+    ]
+  },
+  {
+    "id": "LIB-067",
+    "type": "气候与跨国经营",
+    "title": "Leveraging the capabilities of multinational firms to address climate change",
+    "source": "Journal of International Business Studies",
+    "url": "https://link.springer.com/article/10.1057/s41267-024-00748-w",
+    "why": "连接跨国企业能力、资本和气候议题，扩展经营能力的长期责任维度。",
+    "care": "规范性和宏观金融讨论不能直接评价某一企业的 ESG 表现。",
+    "collection": "当代学术",
+    "topics": [
+      "财务、资本与经营绩效",
+      "风险、韧性、数据与 AI"
+    ],
+    "domain_ids": [
+      "GEM-D06",
+      "GEM-D10"
+    ]
+  },
+  {
+    "id": "LIB-068",
+    "type": "企业年报",
+    "title": "Unilever Annual Report and Accounts 2025",
+    "source": "Unilever",
+    "url": "https://www.unilever.com/investors/annual-report-and-accounts/",
+    "why": "观察全球品牌、印度/美国重点市场、AI、供应链和创新如何进入大型跨国企业的经营系统。",
+    "care": "公司年报属于企业自述，关键成效需要外部数据或独立来源交叉。",
+    "collection": "高管与实践",
+    "topics": [
+      "客户、产品与本地适配",
+      "运营、供应链与生态",
+      "风险、韧性、数据与 AI"
+    ],
+    "domain_ids": [
+      "GEM-D02",
+      "GEM-D03",
+      "GEM-D05",
+      "GEM-D08"
+    ]
+  },
+  {
+    "id": "LIB-069",
+    "type": "企业年报",
+    "title": "Hindustan Unilever Annual Report 2025-26",
+    "source": "Hindustan Unilever Limited",
+    "url": "https://www.hul.co.in/files/annual-report-2025-26.pdf",
+    "why": "观察本地子公司如何形成消费者洞察、R&D、渠道和 AI 能力，并与全球企业连接。",
+    "care": "单一年度报告不能证明长期能力演化，需结合多期数据和外部证据。",
+    "collection": "高管与实践",
+    "topics": [
+      "客户、产品与本地适配",
+      "组织、治理与人才",
+      "学习、复制与能力演进"
+    ],
+    "domain_ids": [
+      "GEM-D04",
+      "GEM-D08"
+    ]
+  },
+  {
+    "id": "LIB-070",
+    "type": "监管原文",
+    "title": "Protecting Americans from Foreign Adversary Controlled Applications Act",
+    "source": "U.S. Congress / GovInfo",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ50/html/PLAW-118publ50.htm",
+    "why": "为数字平台跨境经营提供一个“监管直接改变业务可持续性”的原始法律来源。",
+    "care": "该法属于美国特定法律情境，不能外推成全球数字平台通用规则。",
+    "collection": "政策与规则",
+    "topics": [
+      "风险、韧性、数据与 AI",
+      "全球环境与制度"
+    ],
+    "domain_ids": [
+      "GEM-D07"
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "version": "1.4.1",
+  "release": "Brand Semantics & Launch Consistency",
+  "language": "zh-CN",
+  "cases": 18,
+  "evidence_grade_cases": 6,
+  "library_assets": 70,
+  "capability_domains": 10,
+  "principles": [
+    "Field-first",
+    "Question-led",
+    "Evidence-grounded",
+    "Model-neutral",
+    "Human-governed"
+  ],
+  "site_language": "zh-CN",
+  "public_version_label": "",
+  "reader_first": true,
+  "knowledge_domains": 10,
+  "cross_cutting_lenses": 3,
+  "public_language": "zh-CN",
+  "deep_cases": 3,
+  "case_tiers": [
+    "Deep",
+    "Brief",
+    "Developing",
+    "Seed"
+  ],
+  "candidate_patterns": 3,
+  "open_propositions": 5,
+  "contribution_modes": 4,
+  "reading_paths": 4,
+  "brand_semantics": {
+    "GEM": "Global Enterprise Management",
+    "TIA": [
+      "Thinking",
+      "Intelligence",
+      "Action"
+    ],
+    "zh": [
+      "思想",
+      "洞察",
+      "行动"
+    ]
+  }
+}

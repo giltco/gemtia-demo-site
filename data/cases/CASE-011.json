@@ -1,0 +1,64 @@
+{
+  "case_id": "CASE-011",
+  "slug": "netflix-india-recalibration",
+  "title_zh": "Netflix 印度市场校准",
+  "title_en": "Netflix India Recalibration",
+  "status_zh": "持续追踪",
+  "geography_label": "美国→印度",
+  "industry_label": "流媒体",
+  "gemca_domain_ids": [
+    "GEM-D02",
+    "GEM-D03",
+    "GEM-D06",
+    "GEM-D10"
+  ],
+  "abstract_zh": "通过定价、内容与用户增长策略的持续调整，观察价值主张与商业模型的反馈校准。",
+  "sources": [
+    {
+      "label": "Netflix",
+      "url": "https://about.netflix.com/"
+    }
+  ],
+  "region_group": "南亚",
+  "industry_group": "媒体与娱乐",
+  "question_tags": [
+    "市场与客户",
+    "产品与本地化",
+    "商业模式与增长",
+    "学习与能力"
+  ],
+  "management_questions_zh": [
+    "全球产品在价格敏感、内容偏好差异大的市场如何重新定义价值？",
+    "定价、内容和增长策略如何形成反馈回路？",
+    "本地学习何时会反向影响全球产品与商业决策？"
+  ],
+  "boundary_note_zh": "价格或内容调整后的增长变化不能单独证明某一动作是唯一原因。",
+  "evidence_maturity": "起始证据集",
+  "status_code": "tracking",
+  "domain_labels_zh": [
+    "市场、客户与商业",
+    "产品、品牌与本地化",
+    "财务、资本与绩效",
+    "知识、学习与能力整合"
+  ],
+  "business_model_group": "订阅平台",
+  "scope_group": "单一市场",
+  "evidence_tier": "Seed",
+  "timeline": [],
+  "observed_facts": [],
+  "regions": [
+    "南亚"
+  ],
+  "business_model_tags": [
+    "订阅型",
+    "平台型"
+  ],
+  "last_reviewed_date": "2026-10-08",
+  "source_count": 1,
+  "knowledge_domains": [
+    "市场、客户与商业",
+    "产品、品牌与本地化",
+    "财务、资本与绩效",
+    "知识、学习与能力整合"
+  ]
+}

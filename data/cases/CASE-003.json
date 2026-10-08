@@ -1,0 +1,378 @@
+{
+  "case_id": "CASE-003",
+  "slug": "tata-starbucks-india",
+  "title_zh": "Tata Starbucks 印度",
+  "title_en": "Tata Starbucks India",
+  "status_zh": "持续追踪",
+  "geography_label": "美国→印度",
+  "industry_label": "消费/餐饮",
+  "gemca_domain_ids": [
+    "GEM-D02",
+    "GEM-D03",
+    "GEM-D05",
+    "GEM-D06",
+    "GEM-D09",
+    "GEM-D10"
+  ],
+  "abstract_zh": "通过 50:50 合资、本地产品与多店型扩张，观察价值主张和商业模型如何在印度持续校准。",
+  "sources": [
+    {
+      "type": "企业一手来源",
+      "date": "2012-01-30",
+      "label": "Tata Consumer：Tata Starbucks 50:50 合资成立",
+      "role": "确认 JV、本地采购与烘焙安排",
+      "url": "https://www.tataconsumer.com/news/tata-global-beverages-and-starbucks-form-joint-venture-open-starbucks-cafes-across-india"
+    },
+    {
+      "type": "企业一手来源",
+      "date": "2012-10-19",
+      "label": "Tata Consumer：印度首家 Starbucks 门店开业",
+      "role": "确认正式市场进入及 “A Tata Alliance” 品牌结构",
+      "url": "https://www.tataconsumer.com/news/starbucks-opens-spectacular-flagship-store-mumbai-honoring-dynamic-culture-india"
+    },
+    {
+      "type": "公司年报",
+      "date": "2023-2024",
+      "label": "Tata Consumer FY24：421 店、61 城及本地菜单试验",
+      "role": "确认区域食品、茶饮、Filter Coffee 和多城市扩张",
+      "url": "https://www.tataconsumer.com/iar-2023-24/ExploreNewOppeortunities.html"
+    },
+    {
+      "type": "企业一手来源",
+      "date": "2024-01-08",
+      "label": "Starbucks：提出 2028 年 1,000 店目标",
+      "role": "确认 Tier 2/3、多店型和人员扩张计划",
+      "url": "https://about.starbucks.com/press/2024/tata-starbucks-to-accelerate-growth-to-1000-stores-double-employment-in-india-by-2028/"
+    },
+    {
+      "type": "公司年报",
+      "date": "2025-05",
+      "label": "Tata Consumer FY25：479 店、80 城",
+      "role": "确认门店规模、新店型、配送与数字化重点",
+      "url": "https://www.tataconsumer.com/sites/g/files/gfwrlq316/files/2025-05/Intimation_of_Annual_Report_FY_2025_0.pdf"
+    },
+    {
+      "type": "企业一手来源",
+      "date": "2025-11-19",
+      "label": "Starbucks：第 500 店与 Farmer Support Partnership",
+      "role": "确认门店里程碑及本地咖啡农户生态投入",
+      "url": "https://stories.starbucks.com/asia/stories/2025/starbucks-coffee-company-and-tata-starbucks-re-affirm-coffee-leadership-and-announce-a-farmer-support-partnership-fsp/"
+    },
+    {
+      "type": "公司年报",
+      "date": "2026",
+      "label": "Tata Consumer FY26：502 店、81 城",
+      "role": "确认扩张节奏和当前网络规模",
+      "url": "https://www.tataconsumer.com/iar-2025-26/delivering-on-strategy/build-new-opportunities/"
+    },
+    {
+      "type": "独立商业媒体",
+      "date": "2026-06-10",
+      "label": "Business Standard / PTI：Tata Starbucks FY26 EBITDA positive",
+      "role": "独立确认经营层面转正与长期规模预期",
+      "url": "https://www.business-standard.com/companies/news/tata-starbucks-could-expand-to-8-000-stores-in-india-chandrasekaran-126061000908_1.html"
+    },
+    {
+      "type": "独立商业媒体",
+      "date": "2026-08-23",
+      "label": "Business Standard / PTI：业务模型校准后恢复扩张",
+      "role": "独立确认店型、Capex、定价和城市密度的重新校准",
+      "url": "https://www.business-standard.com/companies/news/starbucks-india-to-accelerate-store-expansion-after-business-recalibration-126082300130_1.html"
+    }
+  ],
+  "region_group": "南亚",
+  "industry_group": "食品饮料",
+  "question_tags": [
+    "市场进入与扩张",
+    "产品与本地化",
+    "商业模式与增长",
+    "生态与伙伴"
+  ],
+  "management_questions_zh": [
+    "全球品牌的核心体验，哪些必须保持一致，哪些必须按印度市场重构？",
+    "50:50 合资真正解决了哪些能力缺口，哪些问题仍需要双方持续协调？",
+    "门店扩张应该优先追求城市覆盖，还是同城密度和单店经济性？"
+  ],
+  "boundary_note_zh": "门店扩张目标属于经营计划，不是结果；本地化动作也不能单独证明增长因果。",
+  "evidence_maturity": "深度案例 · 9 个来源",
+  "status_code": "tracking",
+  "domain_labels_zh": [
+    "市场、客户与商业",
+    "产品、品牌与本地化",
+    "运营、供应链与交付",
+    "财务、资本与绩效",
+    "生态、合作与影响力",
+    "知识、学习与能力整合"
+  ],
+  "business_model_group": "合资 + 连锁零售",
+  "scope_group": "单一市场",
+  "evidence_tier": "Deep",
+  "timeline": [
+    [
+      "2012-01",
+      "Tata Global Beverages 与 Starbucks 成立 50:50 合资公司，并安排 Tata Coffee 承担本地烘焙和供应连接。"
+    ],
+    [
+      "2012-10",
+      "印度首店在孟买开业，品牌以 “A Tata Alliance” 进入市场。"
+    ],
+    [
+      "2023-2024",
+      "Tata Starbucks 扩展本地食品、茶饮、Filter Coffee、多店型和 Tier 2/3 城市布局；FY24 达到 421 家门店、61 个城市。"
+    ],
+    [
+      "2024-01",
+      "双方提出 2028 年达到 1,000 家门店的目标，并计划扩大机场、Drive-thru、24 小时门店等格式。"
+    ],
+    [
+      "2025-03",
+      "FY25 达到 479 家门店、80 个城市，继续推进新城市、新店型、配送与数字化。"
+    ],
+    [
+      "2025-11",
+      "Starbucks 在印度开出第 500 家门店，并与 Tata Starbucks 启动面向印度咖啡农户的支持计划。"
+    ],
+    [
+      "2026-06",
+      "Tata Consumer 披露 Tata Starbucks 在 FY26 实现 EBITDA positive，门店约 502 家。"
+    ],
+    [
+      "2026-08",
+      "Tata Consumer 管理层表示过去 18—24 个月对门店面积、单店资本开支、饮品定价和城市密度进行了业务模型校准，随后准备重新加速扩张。"
+    ]
+  ],
+  "observed_facts": [
+    "JV、本地供应、本地菜单、多店型和农户生态同时存在。",
+    "门店数量增长不等于单店经济性或长期盈利已经被证明。",
+    "1000 店是目标，不是已实现结果。"
+  ],
+  "source_count": 9,
+  "regions": [
+    "南亚"
+  ],
+  "business_model_tags": [
+    "合资经营",
+    "零售型"
+  ],
+  "last_reviewed_date": "2026-10-08",
+  "last_verified_date": "2026-10-08",
+  "knowledge_domains": [
+    "市场、客户与商业",
+    "产品、品牌与本地化",
+    "运营、供应链与交付",
+    "财务、资本与绩效",
+    "生态、合作与影响力",
+    "知识、学习与能力整合"
+  ],
+  "case_depth": "Deep",
+  "case_thesis_zh": "Tata Starbucks 的印度路径说明，全球消费品牌的本地化不是“加几款本地菜单”后持续复制门店，而是合资结构、供应、产品、店型、价格、城市密度和单店经济性不断共同校准的过程。2024 年提出 1,000 家门店目标后，业务又经历了 18—24 个月的模型调整；到 2026 年，同店销售改善、经营层面转正与重新加速扩张同时出现，使这个案例特别适合观察“增长速度”如何受经营质量约束。",
+  "why_it_matters_zh": [
+    "它同时涉及伙伴选择、品牌一致性、本地供应、菜单、店型、定价和城市密度，能够看到“本地化”如何进入完整商业系统。",
+    "它包含一次清晰的扩张—校准—再扩张过程，能避免把门店数量增长误认为商业模型已经成立。",
+    "它适合研究全球品牌如何借助本地伙伴进入复杂市场，同时保留全球品牌体验。"
+  ],
+  "management_problem_zh": "Starbucks 在印度面对的核心问题，是如何在保持全球品牌和高端咖啡体验的同时，建立一个能适应印度城市层级、消费者价格敏感度、食品偏好和门店经济性的本地商业模型。增长太慢可能错过市场，增长太快则会放大单店资本开支、定价和网络效率问题。",
+  "context_constraints": [
+    {
+      "dimension": "合作结构",
+      "analysis": "Starbucks 以 50:50 合资进入印度，并通过 Tata Coffee 建立本地采购与烘焙连接，本地伙伴从进入第一天就嵌入价值链。"
+    },
+    {
+      "dimension": "消费与价格",
+      "analysis": "高端咖啡市场具有增长空间，但属于可选消费；2025—2026 的行业放缓使门店投资和价格策略需要重新评估。"
+    },
+    {
+      "dimension": "城市与网络",
+      "analysis": "印度并不是一个同质市场。Tier 1、2、3 城市的客群、租金、店型和消费频率不同，扩张逻辑不能只看城市数量。"
+    },
+    {
+      "dimension": "产品与体验",
+      "analysis": "本地菜单、茶饮、Filter Coffee、区域食品和 Reserve 体验共同存在，说明品牌在“标准化体验”和“本地相关性”之间持续试验。"
+    },
+    {
+      "dimension": "供应与生态",
+      "analysis": "从本地咖啡采购到 2025 年 Farmer Support Partnership，供应链本身也被纳入品牌和长期市场建设。"
+    }
+  ],
+  "critical_decisions": [
+    {
+      "id": "01",
+      "decision": "以 50:50 合资而非独资进入",
+      "analysis": "Starbucks 获得 Tata 的本地市场、供应和组织连接；Tata 则获得全球品牌和咖啡零售能力。合资解决的不只是准入，而是能力互补。"
+    },
+    {
+      "id": "02",
+      "decision": "本地化不只改菜单，而是改完整门店体验",
+      "analysis": "区域食品、茶饮、本地咖啡、店型与城市选择共同变化，说明产品适配必须与商业模型一起设计。"
+    },
+    {
+      "id": "03",
+      "decision": "从覆盖更多城市转向提高城市密度",
+      "analysis": "2026 年管理层强调同一城市超过一定门店密度后，配送和厨房效率改善，扩张逻辑从“哪里还没有店”转向“网络如何更高效”。"
+    },
+    {
+      "id": "04",
+      "decision": "在高增长目标下暂停并重新校准经济模型",
+      "analysis": "门店面积、资本开支和定价被重新审视，说明 1,000 店目标不能替代单店经济性和同店增长。"
+    },
+    {
+      "id": "05",
+      "decision": "把上游咖啡生态纳入长期经营",
+      "analysis": "Farmer Support Partnership 把本地市场从消费端延伸到供应端，有助于提升供应、品牌和社会嵌入。"
+    }
+  ],
+  "operating_mechanism": {
+    "nodes": [
+      "全球品牌 + 本地伙伴",
+      "本地供应与市场知识",
+      "菜单、店型与价格试验",
+      "城市覆盖与同城密度增长",
+      "单店经济性与网络效率反馈",
+      "校准后再扩张"
+    ],
+    "boundary_note": "这个机制强调“反馈”。门店数量增长不是终点；如果同店销售、资本开支和城市密度不能形成更好的经济性，扩张本身反而会放大问题。"
+  },
+  "capability_shifts": [
+    {
+      "domain": "市场、客户与商业",
+      "shift": "通过城市分层、客群、定价和同店销售不断修正增长假设。"
+    },
+    {
+      "domain": "产品、品牌与本地化",
+      "shift": "在保留 Starbucks 品牌体验的同时增加区域食品、茶饮和本地咖啡表达。"
+    },
+    {
+      "domain": "运营、供应链与交付",
+      "shift": "店型、配送、厨房效率和本地咖啡供应进入同一经营系统。"
+    },
+    {
+      "domain": "财务、资本与绩效",
+      "shift": "扩张速度开始被单店资本开支、同店销售和经营层面盈利共同约束。"
+    },
+    {
+      "domain": "生态、合作与影响力",
+      "shift": "Tata 合作关系和农户支持计划把市场经营嵌入更广泛的本地价值链。"
+    },
+    {
+      "domain": "知识、学习与能力整合",
+      "shift": "过去 18—24 个月的模型校准说明市场反馈被用于改变后续扩张方式。"
+    }
+  ],
+  "claim_evidence_matrix": [
+    {
+      "claim": "Tata Starbucks 从成立起就是 50:50 JV，并连接本地咖啡采购和烘焙。",
+      "statement_type": "事实",
+      "evidence": "Tata Consumer，2012-01",
+      "confidence": "高"
+    },
+    {
+      "claim": "2024 年双方提出 2028 年 1,000 店目标，并明确多店型和 Tier 2/3 扩张。",
+      "statement_type": "事实",
+      "evidence": "Starbucks，2024-01",
+      "confidence": "高"
+    },
+    {
+      "claim": "FY25 门店达到 479 家、80 个城市。",
+      "statement_type": "事实",
+      "evidence": "Tata Consumer FY25 年报",
+      "confidence": "高"
+    },
+    {
+      "claim": "FY26 达到约 502 家门店，并实现 EBITDA positive。",
+      "statement_type": "事实",
+      "evidence": "Tata Consumer / Business Standard，2026-06",
+      "confidence": "高"
+    },
+    {
+      "claim": "管理层在 18—24 个月内重新校准店型、Capex、定价和城市密度。",
+      "statement_type": "事实",
+      "evidence": "Business Standard / PTI，2026-08",
+      "confidence": "高"
+    },
+    {
+      "claim": "印度案例说明本地化本质上是商业系统校准，而不是单点产品适配。",
+      "statement_type": "解释",
+      "evidence": "多阶段经营动作综合",
+      "confidence": "中高"
+    },
+    {
+      "claim": "1,000 店目标一定会实现，且规模增长必然改善盈利。",
+      "statement_type": "假设",
+      "evidence": "目标尚未实现，不能推断",
+      "confidence": "未确认"
+    }
+  ],
+  "known": [
+    "JV、本地供应、本地菜单、多店型和本地生态并不是独立动作，而是在同一市场长期叠加。",
+    "门店扩张速度曾主动放缓，并用于修正单店资本开支、价格和网络密度。",
+    "截至 FY26，经营层面改善与重新加速扩张同时出现。"
+  ],
+  "unknown": [
+    "不同城市和店型的真实单店经济性差异。",
+    "本地化菜单和产品创新对同店增长的独立贡献。",
+    "长期扩张到更大规模后，50:50 治理结构是否仍保持同样效率。"
+  ],
+  "tensions": [
+    "品牌越强调全球一致体验，越可能提高成本并限制本地价格带。",
+    "覆盖更多城市扩大品牌触达，但门店密度不足会削弱配送和后端效率。",
+    "快速扩张提高规模，却可能在需求放缓时放大资本开支和单店盈利压力。"
+  ],
+  "transferability": {
+    "conditions_supporting_transfer": [
+      "全球品牌进入的市场需要本地供应、渠道、地产或组织资源，而这些能力伙伴能够真实提供。",
+      "品牌允许在核心体验之外对菜单、店型和价格进行持续实验。",
+      "公司愿意以单店经济性和同店增长校准扩张，而不是只追求网点数量。"
+    ],
+    "conditions_limiting_transfer": [
+      "合作伙伴只提供牌照或关系，而不参与能力建设。",
+      "总部把“品牌一致”理解为所有市场完全相同。",
+      "增长目标刚性到不允许根据消费周期和单位经济性调整节奏。"
+    ]
+  },
+  "counterfactuals": [
+    {
+      "alternative": "Starbucks 独资进入",
+      "tradeoff": "治理更简单、品牌控制更强，但会失去 Tata 在供应、组织和本地市场连接上的互补能力。"
+    },
+    {
+      "alternative": "保持高度标准化菜单与店型",
+      "tradeoff": "全球一致性更高，但可能削弱产品相关性和对不同城市层级的适配。"
+    },
+    {
+      "alternative": "持续追求全国覆盖、不过度关注城市密度",
+      "tradeoff": "品牌地图会更快扩张，但配送、厨房与运营效率可能难以形成集群效应。"
+    }
+  ],
+  "cross_case_learning": [
+    {
+      "title": "IKEA 印度：产品、价格与全渠道适配",
+      "href": "../ikea-india/index.html",
+      "comparison": "比较全球消费品牌如何同时调整产品、价格、渠道与店型。"
+    },
+    {
+      "title": "Netflix 印度市场校准",
+      "href": "../netflix-india-recalibration/index.html",
+      "comparison": "比较数字订阅业务如何通过价格和产品重新寻找本地价值点。"
+    },
+    {
+      "title": "Unilever × 印度：本地洞察与全球创新网络",
+      "href": "../unilever-india-innovation/index.html",
+      "comparison": "比较本地市场知识如何进一步反哺更广泛的全球创新体系。"
+    }
+  ],
+  "pattern_signal_zh": "候选模式：全球消费品牌在异质市场扩张时，真正可复制的不是某个本地化动作，而是一套“试验—测量—校准—再扩张”的经营机制；伙伴结构、产品、店型、价格和网络密度需要被共同优化。",
+  "evidence_summary": {
+    "source_count": 9,
+    "primary_or_institutional_sources": 7,
+    "independent_sources": 2,
+    "last_verified_date": "2026-10-08",
+    "statement_types": [
+      "事实",
+      "解释",
+      "假设"
+    ]
+  },
+  "related_pattern_ids": [
+    "PAT-003"
+  ]
+}

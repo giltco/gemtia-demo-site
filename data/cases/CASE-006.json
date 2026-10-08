@@ -1,0 +1,64 @@
+{
+  "case_id": "CASE-006",
+  "slug": "huawei-brussels-transparency-centre",
+  "title_zh": "华为布鲁塞尔网络安全透明中心",
+  "title_en": "Huawei Brussels Transparency Centre",
+  "status_zh": "长期案例",
+  "geography_label": "中国→欧洲",
+  "industry_label": "ICT",
+  "gemca_domain_ids": [
+    "GEM-D01",
+    "GEM-D07",
+    "GEM-D08",
+    "GEM-D09"
+  ],
+  "abstract_zh": "面对高监管与高信任门槛市场，以透明、验证和利益相关者协作构建制度性承接能力。",
+  "sources": [
+    {
+      "label": "Huawei",
+      "url": "https://www.huawei.com/en/trust-center/transparency"
+    }
+  ],
+  "region_group": "欧洲",
+  "industry_group": "ICT 与通信设备",
+  "question_tags": [
+    "风险与合规",
+    "生态与伙伴",
+    "组织与治理",
+    "数据与技术"
+  ],
+  "management_questions_zh": [
+    "在高信任门槛市场，技术能力如何转化为制度性信任？",
+    "企业如何与监管者、客户和行业机构建立可验证的透明机制？",
+    "合规应是市场进入门槛，还是持续经营能力的一部分？"
+  ],
+  "boundary_note_zh": "透明机制本身并不等于外部信任已经建立，也不能替代监管结果或商业结果。",
+  "evidence_maturity": "成熟案例简报",
+  "status_code": "established",
+  "domain_labels_zh": [
+    "战略、组合与治理",
+    "风险、合规与韧性",
+    "数据、技术与数字系统",
+    "生态、合作与影响力"
+  ],
+  "business_model_group": "B2B + 信任/合规基础设施",
+  "scope_group": "区域",
+  "evidence_tier": "Seed",
+  "timeline": [],
+  "observed_facts": [],
+  "regions": [
+    "欧洲"
+  ],
+  "business_model_tags": [
+    "B2B",
+    "专业服务/基础设施"
+  ],
+  "last_reviewed_date": "2026-10-08",
+  "source_count": 1,
+  "knowledge_domains": [
+    "战略、组合与治理",
+    "风险、合规与韧性",
+    "数据、技术与数字系统",
+    "生态、合作与影响力"
+  ]
+}

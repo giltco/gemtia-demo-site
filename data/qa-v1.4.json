@@ -1,0 +1,23 @@
+{
+  "release": "V1.4 Knowledge Experience Pass",
+  "html_pages": 64,
+  "broken_internal_links": [],
+  "folder_style_links": [],
+  "json_errors": [],
+  "javascript_syntax_ok": true,
+  "javascript_error": "",
+  "candidate_patterns": 3,
+  "open_propositions": 5,
+  "deep_cases": 3,
+  "hello_gemtia_occurrences": 0,
+  "goxedge_public_occurrences": 0,
+  "new_pages": [
+    "patterns.html",
+    "propositions.html",
+    "contribute.html",
+    "reading-paths.html",
+    "patterns/market-entry-to-local-operating/index.html",
+    "patterns/global-control-local-autonomy/index.html",
+    "patterns/localization-as-system-calibration/index.html"
+  ]
+}

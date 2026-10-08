@@ -1,0 +1,128 @@
+{
+  "case_id": "CASE-010",
+  "slug": "tiktok-u-s-data-governance",
+  "title_zh": "TikTok 美国数据治理",
+  "title_en": "TikTok U.S. Data Governance",
+  "status_zh": "持续追踪",
+  "geography_label": "全球→美国",
+  "industry_label": "互联网平台",
+  "gemca_domain_ids": [
+    "GEM-D01",
+    "GEM-D07",
+    "GEM-D08",
+    "GEM-D09"
+  ],
+  "abstract_zh": "数据、治理、监管和组织边界成为市场持续经营条件，展示“产品成功≠经营可持续”。",
+  "sources": [
+    {
+      "label": "Oracle：成为 TikTok secure cloud provider",
+      "url": "https://www.oracle.com/news/announcement/oracle-chosen-as-tiktok-secure-cloud-provider-091920/",
+      "type": "合作方一手来源",
+      "date": "2020-09-19",
+      "role": "确认 Oracle cloud / security arrangement 的早期结构"
+    },
+    {
+      "label": "TikTok：Delivering on our US data governance",
+      "url": "https://newsroom.tiktok.com/delivering-on-our-us-data-governance?lang=en",
+      "type": "企业一手来源",
+      "date": "2022-06-17",
+      "role": "确认 US traffic 路由 Oracle Cloud 与 USDS 组织安排"
+    },
+    {
+      "label": "U.S. Public Law 118-50",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ50/html/PLAW-118publ50.htm",
+      "type": "法律原文",
+      "date": "2024-04-24",
+      "role": "确认针对 foreign adversary controlled applications 的法定要求"
+    },
+    {
+      "label": "U.S. Supreme Court Docket 24-656",
+      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/24-656.html",
+      "type": "司法原始记录",
+      "date": "2024-2025",
+      "role": "确认案件审理进程"
+    },
+    {
+      "label": "TikTok Inc. v. Garland",
+      "url": "https://www.law.cornell.edu/supremecourt/text/24-656",
+      "type": "司法判决文本镜像",
+      "date": "2025-01-17",
+      "role": "确认最高法院对法律适用的裁判"
+    },
+    {
+      "label": "TikTok：Facts Matter — U.S. User Data",
+      "url": "https://newsroom.tiktok.com/facts-matter-how-tiktok-protects-us-user-data?lang=en",
+      "type": "企业一手来源",
+      "date": "2025-02-07",
+      "role": "确认 USDS、Oracle、透明中心与代码审查的公司陈述"
+    }
+  ],
+  "region_group": "北美",
+  "industry_group": "数字平台",
+  "question_tags": [
+    "风险与合规",
+    "数据与技术",
+    "组织与治理",
+    "生态与伙伴"
+  ],
+  "management_questions_zh": [
+    "当数据治理成为市场准入条件时，产品、技术和公司治理如何一起改变？",
+    "跨境数据、组织边界和监管信任如何被设计？",
+    "用户增长与制度可持续之间如何权衡？"
+  ],
+  "boundary_note_zh": "技术与治理措施的存在不代表争议已解决；政策、法律与政治环境仍可能持续变化。",
+  "evidence_maturity": "案例简报 · 6 个来源",
+  "status_code": "tracking",
+  "domain_labels_zh": [
+    "战略、组合与治理",
+    "风险、合规与韧性",
+    "数据、技术与数字系统",
+    "生态、合作与影响力"
+  ],
+  "business_model_group": "平台 + 广告/内容",
+  "scope_group": "单一市场",
+  "evidence_tier": "Brief",
+  "timeline": [
+    [
+      "2020",
+      "Oracle 被选为 TikTok 安全云合作方。"
+    ],
+    [
+      "2022",
+      "TikTok 把美国流量路由至 Oracle Cloud，并建立 USDS。"
+    ],
+    [
+      "2024",
+      "美国法律把所有权/控制结构直接转化为平台持续经营条件。"
+    ],
+    [
+      "2025-01",
+      "最高法院裁判使法律约束继续生效。"
+    ],
+    [
+      "2025-02",
+      "TikTok 进一步披露 USDS、Oracle 与透明中心的治理结构。"
+    ]
+  ],
+  "observed_facts": [
+    "技术隔离、第三方审查和美国组织单元的存在并未自动消除所有国家安全与控制权争议。",
+    "这是“数据治理 + 公司治理 + 所有权 + 政治制度”共同作用的案例，不能只归类为隐私合规。"
+  ],
+  "source_count": 6,
+  "regions": [
+    "北美"
+  ],
+  "business_model_tags": [
+    "平台型",
+    "广告/内容"
+  ],
+  "last_reviewed_date": "2026-10-08",
+  "last_verified_date": "2026-10-08",
+  "knowledge_domains": [
+    "战略、组合与治理",
+    "风险、合规与韧性",
+    "数据、技术与数字系统",
+    "生态、合作与影响力"
+  ],
+  "case_depth": "Brief"
+}

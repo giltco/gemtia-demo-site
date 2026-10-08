@@ -1,0 +1,334 @@
+{
+  "case_id": "CASE-002",
+  "slug": "haier-ge-appliances",
+  "title_zh": "海尔 × GE Appliances",
+  "title_en": "Haier × GE Appliances",
+  "status_zh": "长期案例",
+  "geography_label": "中国→美国",
+  "industry_label": "家电",
+  "gemca_domain_ids": [
+    "GEM-D01",
+    "GEM-D03",
+    "GEM-D04",
+    "GEM-D05",
+    "GEM-D08",
+    "GEM-D10"
+  ],
+  "abstract_zh": "跨境并购后保留本地总部与管理团队，观察全球所有权、本地自治与能力沉淀。",
+  "sources": [
+    {
+      "type": "企业一手来源",
+      "date": "2016-01-15",
+      "label": "Haier：宣布收购 GE Appliances",
+      "role": "确认交易逻辑、54 亿美元对价及保留 Louisville 总部/管理团队",
+      "url": "https://www.haier.com/global/press-events/news/20160115_142609.shtml"
+    },
+    {
+      "type": "企业一手来源",
+      "date": "2016-06-06",
+      "label": "Haier：完成 GE Appliances 收购",
+      "role": "确认独立日常运营和董事会治理安排",
+      "url": "https://www.haier.com/global/press-events/news/20160607_142585.shtml"
+    },
+    {
+      "type": "独立教学案例",
+      "date": "2018-09-24",
+      "label": "Harvard Business School：Haier in the U.S. — Transforming GE Appliances",
+      "role": "提供组织变革与管理实践的第三方研究视角",
+      "url": "https://store.hbr.org/product/haier-in-the-u-s-transforming-ge-appliances/319044"
+    },
+    {
+      "type": "企业一手来源",
+      "date": "2025-06-26",
+      "label": "GE Appliances：Louisville 4.9 亿美元洗衣工厂投资",
+      "role": "确认本地制造与 “zero-distance” 战略",
+      "url": "https://geappliancesco.com/blog/ge-appliances-doubles-down-on-us-manufacturing-with-490-million-investment/"
+    },
+    {
+      "type": "独立商业媒体",
+      "date": "2025-08-13",
+      "label": "Reuters：GE Appliances 未来五年在美国投资超 30 亿美元",
+      "role": "独立确认收购后长期美国制造投入",
+      "url": "https://www.reuters.com/world/china/ge-appliances-invest-over-3-billion-us-manufacturing-push-2025-08-13/"
+    },
+    {
+      "type": "企业一手来源",
+      "date": "2026-09-02",
+      "label": "GE Appliances：Appliance Park 追加 10 亿美元投资",
+      "role": "确认 Louisville 进一步扩产及部分产能回迁",
+      "url": "https://geappliancesco.com/blog/ge-appliances-and-iuecwa-announce-1-billion-investment-in-louisville-plant-creating-the-largest-home-appliance-manufacturing-site-in-the-us-/"
+    }
+  ],
+  "region_group": "北美",
+  "industry_group": "家电与耐用消费品",
+  "question_tags": [
+    "并购与整合",
+    "组织与治理",
+    "产品与本地化",
+    "学习与能力"
+  ],
+  "management_questions_zh": [
+    "哪些协同需要集团层推动，哪些本地能力必须保持自治？",
+    "“独立运营”如何与资本配置、董事会治理和集团学习连接？",
+    "后续美国制造投资究竟体现本地嵌入，还是仅仅是政策与成本环境变化？"
+  ],
+  "boundary_note_zh": "后续增长不能简单归因于单一管理模式；并购、市场周期、投资与本地团队都可能共同作用。",
+  "evidence_maturity": "深度案例 · 6 个来源",
+  "status_code": "established",
+  "domain_labels_zh": [
+    "战略、组合与治理",
+    "产品、品牌与本地化",
+    "组织、人才与文化",
+    "运营、供应链与交付",
+    "数据、技术与数字系统",
+    "知识、学习与能力整合"
+  ],
+  "business_model_group": "跨境并购 + 本地运营",
+  "scope_group": "区域",
+  "evidence_tier": "Deep",
+  "timeline": [
+    [
+      "2016-01",
+      "海尔宣布以 54 亿美元收购 GE Appliances，并明确保留 Louisville 总部和现有管理团队。"
+    ],
+    [
+      "2016-06",
+      "交易完成；GE Appliances 继续由本地团队负责日常经营，董事会承担战略与治理职责。"
+    ],
+    [
+      "2018",
+      "Harvard Business School 案例开始从组织变革角度研究海尔管理理念如何在美国业务中被重新解释，而非简单复制。"
+    ],
+    [
+      "2025-06",
+      "GE Appliances 宣布在 Louisville 投资 4.9 亿美元建设先进洗衣机生产设施，并以“zero-distance”解释贴近消费者的制造逻辑。"
+    ],
+    [
+      "2025-08",
+      "GE Appliances 宣布未来五年在美国运营与制造体系追加超过 30 亿美元投资。"
+    ],
+    [
+      "2026-09",
+      "GE Appliances 再宣布 10 亿美元改造 Appliance Park，扩大 Louisville 制造规模并继续回迁部分产能。"
+    ]
+  ],
+  "observed_facts": [
+    "收购后的治理并非简单“总部接管”，而是保留了较强本地组织承接。",
+    "后续制造投资说明本地经营仍继续加深。",
+    "不能把收购后的全部增长归因于某一种管理模型。"
+  ],
+  "source_count": 6,
+  "regions": [
+    "北美"
+  ],
+  "business_model_tags": [
+    "跨境并购",
+    "本地运营"
+  ],
+  "last_reviewed_date": "2026-10-08",
+  "last_verified_date": "2026-10-08",
+  "knowledge_domains": [
+    "战略、组合与治理",
+    "产品、品牌与本地化",
+    "组织、人才与文化",
+    "运营、供应链与交付",
+    "数据、技术与数字系统",
+    "知识、学习与能力整合"
+  ],
+  "case_depth": "Deep",
+  "case_thesis_zh": "这个案例最值得研究的并不是“中国企业成功收购美国品牌”，而是所有权变化之后，海尔如何处理“全球控制”与“本地经营自治”的张力。交易从一开始就保留 Louisville 总部、现有管理团队和独立日常运营；此后 GE Appliances 持续增加美国制造投资并强调贴近用户的“zero-distance”策略。案例提示：跨境并购的关键不只是把资产纳入集团，而是决定哪些能力要整合、哪些本地知识必须被保护。",
+  "why_it_matters_zh": [
+    "它把跨境并购后的核心问题从“整合得快不快”改成“什么应该整合、什么不该被破坏”。",
+    "它有十年时间跨度，可以观察治理设计是否只是交易期承诺，还是演变成持续经营逻辑。",
+    "它同时包含品牌、组织、制造、创新和客户接近性，适合研究全球所有权与本地经营之间的边界。"
+  ],
+  "management_problem_zh": "海尔收购 GE Appliances 后面对的难题，是如何在获得品牌、渠道、制造和人才资产的同时，不让集团整合破坏一个高度本地化、依赖美国消费者洞察和零售渠道关系的经营系统。换句话说：总部到底应该控制什么，哪些能力应该继续由本地团队拥有？",
+  "context_constraints": [
+    {
+      "dimension": "资产与能力",
+      "analysis": "GE Appliances 在交易前已经拥有品牌、制造、渠道、物流和美国本地管理体系；收购对象不是一个需要从零搭建的市场入口。"
+    },
+    {
+      "dimension": "整合风险",
+      "analysis": "家电业务高度依赖消费者偏好、零售渠道、工程能力和制造体系，过度集中可能破坏本地知识与响应速度。"
+    },
+    {
+      "dimension": "治理要求",
+      "analysis": "收购方需要实现资本与战略控制，同时让本地团队继续承担日常经营责任。"
+    },
+    {
+      "dimension": "本地合法性",
+      "analysis": "美国制造、就业、社区关系与品牌信任都使“本地身份”成为经营资产，而不是单纯成本项。"
+    },
+    {
+      "dimension": "长期投资",
+      "analysis": "2016 年以后持续的美国制造投入，使这个案例可以检验“本地自治”是否伴随长期资源承诺。"
+    }
+  ],
+  "critical_decisions": [
+    {
+      "id": "01",
+      "decision": "保留本地总部和现有管理团队",
+      "analysis": "交易没有以“全面接管”为默认逻辑，而是把本地管理能力本身当成需要保护的资产。"
+    },
+    {
+      "id": "02",
+      "decision": "用董事会治理代替日常微观控制",
+      "analysis": "所有权和战略监督上收，但日常经营继续由本地团队承担，形成控制与自治之间的分层。"
+    },
+    {
+      "id": "03",
+      "decision": "持续投资美国制造与产品创新",
+      "analysis": "后续资本投入强化了“本地团队负责经营、集团提供长期资源”的互补，而不是把美国业务变成简单销售子公司。"
+    },
+    {
+      "id": "04",
+      "decision": "把客户距离作为运营原则",
+      "analysis": "“zero-distance”把制造、产品开发和消费者理解连接起来，说明本地化不是文化包装，而是运营系统设计。"
+    }
+  ],
+  "operating_mechanism": {
+    "nodes": [
+      "跨境所有权改变",
+      "治理权与日常经营权分层",
+      "本地团队与市场知识被保留",
+      "资本与平台资源持续投入",
+      "制造与产品更贴近消费者",
+      "本地能力继续增长并形成集团学习输入"
+    ],
+    "boundary_note": "自治本身并不会自动产生绩效。它只有在责任清楚、资本支持持续、战略监督有效，并且本地团队真正具备能力时，才可能转化为经营优势。"
+  },
+  "capability_shifts": [
+    {
+      "domain": "战略、组合与治理",
+      "shift": "收购后通过董事会和资本配置实现集团控制，同时保持经营层自治。"
+    },
+    {
+      "domain": "产品、品牌与本地化",
+      "shift": "GE Appliances 品牌、产品组合和美国消费者理解继续以本地市场为中心运作。"
+    },
+    {
+      "domain": "组织、人才与文化",
+      "shift": "本地管理团队被保留，组织整合更多表现为治理与理念重塑，而不是简单替换。"
+    },
+    {
+      "domain": "运营、供应链与交付",
+      "shift": "美国制造投资不断加深，说明本地生产被视为客户接近和供应韧性的一部分。"
+    },
+    {
+      "domain": "知识、学习与能力整合",
+      "shift": "真正的难点是如何让本地实践进入集团学习，而不是只要求本地业务复制总部方法。"
+    }
+  ],
+  "claim_evidence_matrix": [
+    {
+      "claim": "交易明确保留 Louisville 总部和现有管理团队。",
+      "statement_type": "事实",
+      "evidence": "Haier 官方，2016-01；2016-06",
+      "confidence": "高"
+    },
+    {
+      "claim": "GE Appliances 在收购后继续保持日常独立运营。",
+      "statement_type": "事实",
+      "evidence": "Haier 官方交割公告",
+      "confidence": "高"
+    },
+    {
+      "claim": "美国制造投入在 2025—2026 年继续显著增加。",
+      "statement_type": "事实",
+      "evidence": "GE Appliances / Reuters",
+      "confidence": "高"
+    },
+    {
+      "claim": "“zero-distance”被公司用于解释贴近消费者的本地制造逻辑。",
+      "statement_type": "事实",
+      "evidence": "GE Appliances，2025-06",
+      "confidence": "高"
+    },
+    {
+      "claim": "治理分层与本地自治是长期经营表现的重要机制之一。",
+      "statement_type": "解释",
+      "evidence": "交易设计 + 长期投资 + 独立案例研究",
+      "confidence": "中高"
+    },
+    {
+      "claim": "海尔的某一种管理模式直接导致了 GE Appliances 后续增长。",
+      "statement_type": "假设",
+      "evidence": "存在多重因果，当前证据不足",
+      "confidence": "未确认"
+    }
+  ],
+  "known": [
+    "本地总部和管理团队的保留不是事后安排，而是交易设计的一部分。",
+    "收购后美国业务并未被去本地化，反而持续增加美国制造和运营投资。",
+    "集团所有权与本地日常经营可以被组织成不同层级，而不是二选一。"
+  ],
+  "unknown": [
+    "哪些具体决策必须得到海尔集团批准，哪些完全由 GE Appliances 管理层决定。",
+    "集团内部知识、人才和技术跨区域流动的真实强度与方向。",
+    "后续业绩中，治理模式、市场周期、产品创新、政策和制造投资各自贡献了多少。"
+  ],
+  "tensions": [
+    "越强调本地自治，集团越需要更成熟的治理、绩效和资本配置机制。",
+    "越追求全球协同，越可能触碰本地品牌、渠道和组织身份。",
+    "“不整合”可能保护能力，也可能错过真正有价值的跨区域协同。"
+  ],
+  "transferability": {
+    "conditions_supporting_transfer": [
+      "被收购企业已经拥有成熟品牌、客户关系、管理团队和本地经营知识。",
+      "并购方的价值主要来自资本、平台、全球网络或治理，而不是必须替换本地运营能力。",
+      "双方能够明确区分“战略控制”与“日常经营控制”。"
+    ],
+    "conditions_limiting_transfer": [
+      "目标企业本身能力薄弱，需要全面重建。",
+      "总部缺乏治理能力，只能通过微观干预获得安全感。",
+      "并购逻辑高度依赖快速成本协同，无法容忍阶段性组织冗余。"
+    ]
+  },
+  "counterfactuals": [
+    {
+      "alternative": "全面吸收进总部体系",
+      "tradeoff": "更容易统一流程和成本，但可能损失品牌、渠道和本地人才所承载的隐性知识。"
+    },
+    {
+      "alternative": "把收购对象当作纯财务资产",
+      "tradeoff": "可以减少整合摩擦，但集团也难以产生真正的能力协同和学习。"
+    },
+    {
+      "alternative": "只保留品牌、压缩本地制造与组织",
+      "tradeoff": "可能提升短期资产效率，却会削弱客户距离、社区关系与本地合法性。"
+    }
+  ],
+  "cross_case_learning": [
+    {
+      "title": "联想收购 IBM PC",
+      "href": "../lenovo-ibm-pc/index.html",
+      "comparison": "比较两类跨境并购如何处理品牌、组织与全球能力重构。"
+    },
+    {
+      "title": "吉利 × Volvo Cars",
+      "href": "../geely-volvo-cars/index.html",
+      "comparison": "比较所有权变化后保持品牌与研发自治的另一种长期路径。"
+    },
+    {
+      "title": "比亚迪匈牙利",
+      "href": "../byd-hungary/index.html",
+      "comparison": "比较“通过并购获得本地经营能力”与“从零搭建区域能力”。"
+    }
+  ],
+  "pattern_signal_zh": "候选模式：当被收购企业的本地品牌、渠道、人才和市场知识本身就是核心资产时，“控制权上收、经营权分层”可能比全面整合更有利；但前提是集团有能力通过治理、资本和学习机制保持一致性。",
+  "evidence_summary": {
+    "source_count": 6,
+    "primary_or_institutional_sources": 4,
+    "independent_sources": 2,
+    "last_verified_date": "2026-10-08",
+    "statement_types": [
+      "事实",
+      "解释",
+      "假设"
+    ]
+  },
+  "related_pattern_ids": [
+    "PAT-002"
+  ]
+}

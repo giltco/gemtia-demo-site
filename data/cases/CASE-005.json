@@ -1,0 +1,122 @@
+{
+  "case_id": "CASE-005",
+  "slug": "shein-brazil-localization",
+  "title_zh": "SHEIN 巴西本地生产",
+  "title_en": "SHEIN Brazil Localization",
+  "status_zh": "持续追踪",
+  "geography_label": "中国/全球→巴西",
+  "industry_label": "时尚/电商",
+  "gemca_domain_ids": [
+    "GEM-D01",
+    "GEM-D03",
+    "GEM-D05",
+    "GEM-D07",
+    "GEM-D09"
+  ],
+  "abstract_zh": "本地生产计划遭遇成本、交期、税制与供应商承接摩擦，是“复制中国效率模型”边界的反例型案例。",
+  "sources": [
+    {
+      "label": "SHEIN：宣布巴西本地制造计划",
+      "url": "https://www.sheingroup.com/newsroom/shein-to-bring-local-manufacturing-to-brazil-supporting-2-000-producers-and-100-000-jobs-in-next",
+      "type": "企业一手来源",
+      "date": "2023-04-20",
+      "role": "确认 1.5 亿美元、2000 家生产商与 10 万岗位目标"
+    },
+    {
+      "label": "SHEIN Newsroom",
+      "url": "https://www.sheingroup.com/newsroom",
+      "type": "企业一手来源",
+      "date": "2023-2026",
+      "role": "核对巴西及供应链相关公司披露"
+    },
+    {
+      "label": "Reuters：Brazil production hub 复盘",
+      "url": "https://www.reuters.com/business/retail-consumer/shein-tried-turn-brazil-into-production-hub-local-factories-walked-away-2026-02-04/",
+      "type": "独立媒体",
+      "date": "2026-02-04",
+      "role": "调查本地工厂退出、成本与交期摩擦"
+    },
+    {
+      "label": "Brazil Receita Federal：Remessa Conforme",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/programa-remessa-conforme-o-que-e-como-funciona",
+      "type": "监管原文",
+      "date": "2024-2026",
+      "role": "确认跨境电商税收/申报机制"
+    },
+    {
+      "label": "Brazil Receita Federal：进口税规则",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/tributacao",
+      "type": "监管原文",
+      "date": "2026-09 update",
+      "role": "确认进口税和 ICMS 规则变化"
+    }
+  ],
+  "region_group": "拉美",
+  "industry_group": "零售与电商",
+  "question_tags": [
+    "运营与供应链",
+    "产品与本地化",
+    "商业模式与增长",
+    "风险与合规"
+  ],
+  "management_questions_zh": [
+    "一套高效率供应链模式进入新市场时，哪些前提条件会失效？",
+    "本地成本、税制与供应商能力如何改变原有经济模型？",
+    "何时应该坚持标准化，何时必须重新设计本地运营？"
+  ],
+  "boundary_note_zh": "供应商摩擦说明模式存在情境边界，但不能由单一市场直接推导出全球模式失效。",
+  "evidence_maturity": "案例简报 · 5 个来源",
+  "status_code": "tracking",
+  "domain_labels_zh": [
+    "战略、组合与治理",
+    "产品、品牌与本地化",
+    "运营、供应链与交付",
+    "风险、合规与韧性",
+    "生态、合作与影响力"
+  ],
+  "business_model_group": "D2C + 平台 + 本地制造",
+  "scope_group": "单一市场",
+  "evidence_tier": "Brief",
+  "timeline": [
+    [
+      "2023-04",
+      "SHEIN 宣布把巴西建设为拉美制造与出口枢纽，并提出大规模本地供应商目标。"
+    ],
+    [
+      "2023-12",
+      "根据 Reuters 后续调查，公司已与数百家本地工厂建立关系。"
+    ],
+    [
+      "2024-2026",
+      "巴西跨境电商税制持续调整，提高本地经营与跨境履约复杂度。"
+    ],
+    [
+      "2026-02",
+      "Reuters 调查显示多家本地工厂因价格、交期和运营条件退出合作。"
+    ]
+  ],
+  "observed_facts": [
+    "“供应商数量/就业目标”属于企业计划，不等于已经实现。",
+    "巴西的税制、劳动、物流和产业条件使中国供应模型难以简单复制。",
+    "单一媒体调查仍需与更多企业和供应商数据继续交叉。"
+  ],
+  "source_count": 5,
+  "regions": [
+    "拉美"
+  ],
+  "business_model_tags": [
+    "D2C",
+    "平台型",
+    "本地制造"
+  ],
+  "last_reviewed_date": "2026-10-08",
+  "last_verified_date": "2026-10-08",
+  "knowledge_domains": [
+    "战略、组合与治理",
+    "产品、品牌与本地化",
+    "运营、供应链与交付",
+    "风险、合规与韧性",
+    "生态、合作与影响力"
+  ],
+  "case_depth": "Brief"
+}

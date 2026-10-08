@@ -1,0 +1,87 @@
+{
+  "version": "1.1",
+  "public_model": "10 knowledge domains + 3 cross-cutting lenses",
+  "domains": [
+    {
+      "id": "GEM-D01",
+      "name": "战略、组合与治理",
+      "slug": "strategy-portfolio-governance",
+      "description": "确定全球经营方向，选择并治理市场与业务组合，配置资源，并建立跨市场决策与校准机制。"
+    },
+    {
+      "id": "GEM-D02",
+      "name": "市场、客户与商业",
+      "slug": "market-customer-commercial",
+      "description": "理解市场与客户，形成价值主张、定价、渠道与销售体系，并建立可持续的收入与客户关系。"
+    },
+    {
+      "id": "GEM-D03",
+      "name": "产品、品牌与本地化",
+      "slug": "product-brand-localization",
+      "description": "面向多市场设计和演进产品与品牌，在全球一致性、本地相关性、合规要求与生命周期经济性之间取得平衡。"
+    },
+    {
+      "id": "GEM-D04",
+      "name": "组织、人才与文化",
+      "slug": "organization-talent-culture",
+      "description": "设计全球、区域与本地组织，配置决策权，建设领导力与人才，并形成有效的跨文化协作。"
+    },
+    {
+      "id": "GEM-D05",
+      "name": "运营、供应链与交付",
+      "slug": "operations-supply-chain-delivery",
+      "description": "跨市场稳定地采购、生产、交付和服务，并配置供应链、物流、质量和运营流程。"
+    },
+    {
+      "id": "GEM-D06",
+      "name": "财务、资本与绩效",
+      "slug": "finance-capital-performance",
+      "description": "对全球业务进行财务规划、资本配置、资金与税务管理，并衡量不同市场的经营质量与回报。"
+    },
+    {
+      "id": "GEM-D07",
+      "name": "风险、合规与韧性",
+      "slug": "risk-compliance-resilience",
+      "description": "识别并治理法律、监管、地缘、贸易、合规和运营中断风险，建立跨市场持续经营的韧性。"
+    },
+    {
+      "id": "GEM-D08",
+      "name": "数据、技术与数字系统",
+      "slug": "data-technology-digital-systems",
+      "description": "构建和治理全球经营需要的数据、技术平台、AI、分析、网络安全与系统集成基础。"
+    },
+    {
+      "id": "GEM-D09",
+      "name": "生态、合作与影响力",
+      "slug": "ecosystem-partnership-influence",
+      "description": "建立并治理合作伙伴、渠道、政府、行业机构和本地利益相关方网络，增强触达能力、合法性与协同价值。"
+    },
+    {
+      "id": "GEM-D10",
+      "name": "知识、学习与能力整合",
+      "slug": "knowledge-learning-capability-integration",
+      "description": "获取、传递、复用并制度化跨市场知识，让经验转化为组织学习和可持续的全球经营能力。"
+    }
+  ],
+  "lenses": [
+    {
+      "name": "全球一致与本地适配",
+      "slug": "global-local",
+      "desc": "判断什么必须全球一致、什么可以区域化、什么必须本地改变，以及谁拥有决定权。",
+      "questions": "标准化 · 区域化 · 本地适配 · 例外治理"
+    },
+    {
+      "name": "企业能力",
+      "slug": "enterprise-capability",
+      "desc": "判断一次动作是否已经变成可重复、可解释、可迁移、并能在条件变化时重构的组织能力。",
+      "questions": "承接 · 复用 · 学习 · 重构"
+    },
+    {
+      "name": "AI 原生经营",
+      "slug": "ai-native",
+      "desc": "观察 AI 如何改变知识流、决策、产品、组织与运营系统，同时保留责任、证据和人工治理边界。",
+      "questions": "人机协作 · 决策智能 · 自动化 · 治理"
+    }
+  ],
+  "principle": "One semantic backbone, two views: knowledge and capability."
+}

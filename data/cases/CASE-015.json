@@ -1,0 +1,84 @@
+{
+  "case_id": "CASE-015",
+  "slug": "spotify-india",
+  "title_zh": "Spotify 印度：数字产品的深度本地适配",
+  "title_en": "Spotify India",
+  "status_zh": "长期案例",
+  "status_code": "established",
+  "region_group": "南亚",
+  "industry_group": "媒体与娱乐",
+  "business_model_group": "Freemium + 订阅平台",
+  "scope_group": "单一市场",
+  "evidence_tier": "Developing",
+  "evidence_maturity": "发展中 · 3 个来源",
+  "abstract_zh": "Spotify 的印度首发把语言、推荐、免费层体验和本地内容直接写进产品，而不是仅做内容上架。",
+  "gemca_domain_ids": [
+    "GEM-D02",
+    "GEM-D03",
+    "GEM-D08"
+  ],
+  "question_tags": [
+    "产品与本地化",
+    "市场与客户",
+    "商业模式与增长",
+    "数据与技术"
+  ],
+  "management_questions_zh": [
+    "数字产品的“全球统一架构”与“市场级体验差异”如何共存？",
+    "语言、推荐算法和免费层规则是否属于核心产品本地化？",
+    "本地内容供给如何进入全球平台的产品体系？"
+  ],
+  "boundary_note_zh": "首发产品设计说明适配意图，不等于长期商业结果；需要结合用户、版权和竞争数据继续验证。",
+  "sources": [
+    {
+      "label": "Spotify Launches in India",
+      "url": "https://newsroom.spotify.com/2019-02-26/spotify-launches-in-india/",
+      "type": "企业一手来源",
+      "date": "2019-02-26",
+      "role": "确认多语言推荐、印度歌单与 Free 规则"
+    },
+    {
+      "label": "Spotify India MD Q&A",
+      "url": "https://newsroom.spotify.com/2019-02-26/4-questions-and-answers-with-amarjit-batra-managing-director-spotify-india/",
+      "type": "企业一手来源",
+      "date": "2019-02-26",
+      "role": "补充本地内容与用户情境"
+    },
+    {
+      "label": "Spotify newsroom",
+      "url": "https://newsroom.spotify.com/",
+      "type": "企业一手来源",
+      "date": "ongoing",
+      "role": "持续核对市场变化"
+    }
+  ],
+  "timeline": [
+    [
+      "2019-02",
+      "Spotify 在印度上线，首发即包含多语言推荐、印度歌单与差异化免费层。"
+    ]
+  ],
+  "observed_facts": [
+    "Spotify 印度说明数字产品也可能需要市场级产品规则，而非仅内容本地化。"
+  ],
+  "domain_labels_zh": [
+    "市场、客户与商业",
+    "产品、品牌与本地化",
+    "数据、技术与数字系统"
+  ],
+  "regions": [
+    "南亚"
+  ],
+  "business_model_tags": [
+    "Freemium",
+    "订阅型",
+    "平台型"
+  ],
+  "last_reviewed_date": "2026-10-08",
+  "source_count": 3,
+  "knowledge_domains": [
+    "市场、客户与商业",
+    "产品、品牌与本地化",
+    "数据、技术与数字系统"
+  ]
+}

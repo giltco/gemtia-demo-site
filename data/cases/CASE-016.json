@@ -1,0 +1,92 @@
+{
+  "case_id": "CASE-016",
+  "slug": "samsung-vietnam-rd",
+  "title_zh": "三星越南：从制造基地到研发节点",
+  "title_en": "Samsung Vietnam R&D",
+  "status_zh": "持续追踪",
+  "status_code": "tracking",
+  "region_group": "东南亚",
+  "industry_group": "电子与半导体",
+  "business_model_group": "制造 + R&D",
+  "scope_group": "区域",
+  "evidence_tier": "Developing",
+  "evidence_maturity": "发展中 · 3 个来源",
+  "abstract_zh": "三星在越南的长期制造基础进一步扩展到大规模研发中心，呈现东道国角色从生产节点向知识节点升级。",
+  "gemca_domain_ids": [
+    "GEM-D04",
+    "GEM-D05",
+    "GEM-D08",
+    "GEM-D09",
+    "GEM-D10"
+  ],
+  "question_tags": [
+    "运营与供应链",
+    "组织与治理",
+    "数据与技术",
+    "学习与能力"
+  ],
+  "management_questions_zh": [
+    "海外生产基地如何升级为研发与知识节点？",
+    "本地人才和研发能力如何进入全球产品开发网络？",
+    "东道国政策与企业长期投资之间如何共同演化？"
+  ],
+  "boundary_note_zh": "R&D 中心落地说明角色升级意图，不等于研发成果已经在全球产品体系中产生同等影响。",
+  "sources": [
+    {
+      "label": "Samsung Vietnam：Hanoi R&D Center inauguration",
+      "url": "https://news.samsung.com/vn/samsung-chien-thang-dai-dich-hoan-thanh-loi-hua-voi-chinh-phu-viet-nam-samsung-viet-nam-to-chuc-le-khanh-thanh-trung-tam-nghien-cuu-phat-trien-moi-tai-ha-noi",
+      "type": "企业一手来源",
+      "date": "2022-12-23",
+      "role": "确认 R&D 中心与战略定位"
+    },
+    {
+      "label": "Vietnam Ministry of Industry and Trade",
+      "url": "https://moit.gov.vn/tin-tuc/phat-trien-cong-nghiep/khanh-thanh-trung-tam-r-d-cua-samsung-tai-viet-nam.html",
+      "type": "政府来源",
+      "date": "2022-12-28",
+      "role": "独立确认项目"
+    },
+    {
+      "label": "Samsung newsroom media library",
+      "url": "https://news.samsung.com/medialibrary/kr/photo/53412?album=49",
+      "type": "企业一手来源",
+      "date": "2022-12-27",
+      "role": "补充项目记录"
+    }
+  ],
+  "timeline": [
+    [
+      "2020",
+      "新 R&D 中心开工。"
+    ],
+    [
+      "2022-12",
+      "Hanoi R&D Center 正式落成。"
+    ]
+  ],
+  "observed_facts": [
+    "三星公开把越南定位从全球制造基地进一步提升为战略研发节点。"
+  ],
+  "domain_labels_zh": [
+    "组织、人才与文化",
+    "运营、供应链与交付",
+    "数据、技术与数字系统",
+    "生态、合作与影响力",
+    "知识、学习与能力整合"
+  ],
+  "regions": [
+    "东南亚"
+  ],
+  "business_model_tags": [
+    "制造型"
+  ],
+  "last_reviewed_date": "2026-10-08",
+  "source_count": 3,
+  "knowledge_domains": [
+    "组织、人才与文化",
+    "运营、供应链与交付",
+    "数据、技术与数字系统",
+    "生态、合作与影响力",
+    "知识、学习与能力整合"
+  ]
+}

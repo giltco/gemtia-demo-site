@@ -1,0 +1,817 @@
+[
+  {
+    "case_id": "CASE-001",
+    "slug": "byd-hungary",
+    "title_zh": "比亚迪匈牙利",
+    "title_en": "BYD in Hungary",
+    "status_code": "tracking",
+    "status_zh": "持续追踪",
+    "region_group": "欧洲",
+    "regions": [
+      "欧洲"
+    ],
+    "industry_group": "汽车与出行",
+    "business_model_group": "制造 + 直营/经销",
+    "business_model_tags": [
+      "制造型",
+      "经销/直营"
+    ],
+    "scope_group": "区域",
+    "evidence_tier": "Deep",
+    "evidence_maturity": "深度案例 · 8 个来源",
+    "question_tags": [
+      "市场进入与扩张",
+      "运营与供应链",
+      "组织与治理",
+      "生态与伙伴",
+      "风险与合规"
+    ],
+    "gemca_domain_ids": [
+      "GEM-D01",
+      "GEM-D03",
+      "GEM-D04",
+      "GEM-D05",
+      "GEM-D07",
+      "GEM-D08",
+      "GEM-D09"
+    ],
+    "abstract_zh": "从整车工厂到欧洲总部与研发节点，观察制造本地化如何演化为区域经营能力。",
+    "source_count": 8,
+    "last_reviewed_date": "2026-10-08",
+    "last_verified_date": "2026-10-08",
+    "knowledge_domains": [
+      "战略、组合与治理",
+      "产品、品牌与本地化",
+      "组织、人才与文化",
+      "运营、供应链与交付",
+      "风险、合规与韧性",
+      "数据、技术与数字系统",
+      "生态、合作与影响力"
+    ],
+    "case_thesis_zh": "这不是一个“在欧洲建厂”的故事，而是一个企业把部分价值链、供应网络、研发和区域管理能力逐步推向目标市场的过程。匈牙利布局显示，当贸易壁垒、本地响应和长期市场承诺同时上升时，制造本地化可能继续演化为区域经营能力；但量产节奏的反复也提醒我们：有了工厂，并不等于经营系统已经成熟。"
+  },
+  {
+    "case_id": "CASE-002",
+    "slug": "haier-ge-appliances",
+    "title_zh": "海尔 × GE Appliances",
+    "title_en": "Haier × GE Appliances",
+    "status_code": "established",
+    "status_zh": "长期案例",
+    "region_group": "北美",
+    "regions": [
+      "北美"
+    ],
+    "industry_group": "家电与耐用消费品",
+    "business_model_group": "跨境并购 + 本地运营",
+    "business_model_tags": [
+      "跨境并购",
+      "本地运营"
+    ],
+    "scope_group": "区域",
+    "evidence_tier": "Deep",
+    "evidence_maturity": "深度案例 · 6 个来源",
+    "question_tags": [
+      "并购与整合",
+      "组织与治理",
+      "产品与本地化",
+      "学习与能力"
+    ],
+    "gemca_domain_ids": [
+      "GEM-D01",
+      "GEM-D03",
+      "GEM-D04",
+      "GEM-D05",
+      "GEM-D08",
+      "GEM-D10"
+    ],
+    "abstract_zh": "跨境并购后保留本地总部与管理团队，观察全球所有权、本地自治与能力沉淀。",
+    "source_count": 6,
+    "last_reviewed_date": "2026-10-08",
+    "last_verified_date": "2026-10-08",
+    "knowledge_domains": [
+      "战略、组合与治理",
+      "产品、品牌与本地化",
+      "组织、人才与文化",
+      "运营、供应链与交付",
+      "数据、技术与数字系统",
+      "知识、学习与能力整合"
+    ],
+    "case_thesis_zh": "这个案例最值得研究的并不是“中国企业成功收购美国品牌”，而是所有权变化之后，海尔如何处理“全球控制”与“本地经营自治”的张力。交易从一开始就保留 Louisville 总部、现有管理团队和独立日常运营；此后 GE Appliances 持续增加美国制造投资并强调贴近用户的“zero-distance”策略。案例提示：跨境并购的关键不只是把资产纳入集团，而是决定哪些能力要整合、哪些本地知识必须被保护。"
+  },
+  {
+    "case_id": "CASE-003",
+    "slug": "tata-starbucks-india",
+    "title_zh": "Tata Starbucks 印度",
+    "title_en": "Tata Starbucks India",
+    "status_code": "tracking",
+    "status_zh": "持续追踪",
+    "region_group": "南亚",
+    "regions": [
+      "南亚"
+    ],
+    "industry_group": "食品饮料",
+    "business_model_group": "合资 + 连锁零售",
+    "business_model_tags": [
+      "合资经营",
+      "零售型"
+    ],
+    "scope_group": "单一市场",
+    "evidence_tier": "Deep",
+    "evidence_maturity": "深度案例 · 9 个来源",
+    "question_tags": [
+      "市场进入与扩张",
+      "产品与本地化",
+      "商业模式与增长",
+      "生态与伙伴"
+    ],
+    "gemca_domain_ids": [
+      "GEM-D02",
+      "GEM-D03",
+      "GEM-D05",
+      "GEM-D06",
+      "GEM-D09",
+      "GEM-D10"
+    ],
+    "abstract_zh": "通过 50:50 合资、本地产品与多店型扩张，观察价值主张和商业模型如何在印度持续校准。",
+    "source_count": 9,
+    "last_reviewed_date": "2026-10-08",
+    "last_verified_date": "2026-10-08",
+    "knowledge_domains": [
+      "市场、客户与商业",
+      "产品、品牌与本地化",
+      "运营、供应链与交付",
+      "财务、资本与绩效",
+      "生态、合作与影响力",
+      "知识、学习与能力整合"
+    ],
+    "case_thesis_zh": "Tata Starbucks 的印度路径说明，全球消费品牌的本地化不是“加几款本地菜单”后持续复制门店，而是合资结构、供应、产品、店型、价格、城市密度和单店经济性不断共同校准的过程。2024 年提出 1,000 家门店目标后，业务又经历了 18—24 个月的模型调整；到 2026 年，同店销售改善、经营层面转正与重新加速扩张同时出现，使这个案例特别适合观察“增长速度”如何受经营质量约束。"
+  },
+  {
+    "case_id": "CASE-004",
+    "slug": "lenovo-ibm-pc",
+    "title_zh": "联想收购 IBM PC",
+    "title_en": "Lenovo × IBM PC",
+    "status_code": "historical",
+    "status_zh": "历史案例",
+    "region_group": "北美 / 欧洲 / 东亚",
+    "regions": [
+      "北美",
+      "欧洲",
+      "东亚"
+    ],
+    "industry_group": "科技硬件",
+    "business_model_group": "跨境并购 + 全球组织",
+    "business_model_tags": [
+      "跨境并购",
+      "全球组织"
+    ],
+    "scope_group": "全球",
+    "evidence_tier": "Brief",
+    "evidence_maturity": "案例简报 · 6 个来源",
+    "question_tags": [
+      "并购与整合",
+      "组织与治理",
+      "品牌与产品",
+      "学习与能力"
+    ],
+    "gemca_domain_ids": [
+      "GEM-D01",
+      "GEM-D03",
+      "GEM-D04",
+      "GEM-D05",
+      "GEM-D10"
+    ],
+    "abstract_zh": "从中国 PC 企业到全球经营组织，观察品牌、组织、研发、渠道和运营能力的跨境整合。",
+    "source_count": 6,
+    "last_reviewed_date": "2026-10-08",
+    "last_verified_date": "2026-10-08",
+    "knowledge_domains": [
+      "战略、组合与治理",
+      "产品、品牌与本地化",
+      "组织、人才与文化",
+      "运营、供应链与交付",
+      "知识、学习与能力整合"
+    ]
+  },
+  {
+    "case_id": "CASE-005",
+    "slug": "shein-brazil-localization",
+    "title_zh": "SHEIN 巴西本地生产",
+    "title_en": "SHEIN Brazil Localization",
+    "status_code": "tracking",
+    "status_zh": "持续追踪",
+    "region_group": "拉美",
+    "regions": [
+      "拉美"
+    ],
+    "industry_group": "零售与电商",
+    "business_model_group": "D2C + 平台 + 本地制造",
+    "business_model_tags": [
+      "D2C",
+      "平台型",
+      "本地制造"
+    ],
+    "scope_group": "单一市场",
+    "evidence_tier": "Brief",
+    "evidence_maturity": "案例简报 · 5 个来源",
+    "question_tags": [
+      "运营与供应链",
+      "产品与本地化",
+      "商业模式与增长",
+      "风险与合规"
+    ],
+    "gemca_domain_ids": [
+      "GEM-D01",
+      "GEM-D03",
+      "GEM-D05",
+      "GEM-D07",
+      "GEM-D09"
+    ],
+    "abstract_zh": "本地生产计划遭遇成本、交期、税制与供应商承接摩擦，是“复制中国效率模型”边界的反例型案例。",
+    "source_count": 5,
+    "last_reviewed_date": "2026-10-08",
+    "last_verified_date": "2026-10-08",
+    "knowledge_domains": [
+      "战略、组合与治理",
+      "产品、品牌与本地化",
+      "运营、供应链与交付",
+      "风险、合规与韧性",
+      "生态、合作与影响力"
+    ]
+  },
+  {
+    "case_id": "CASE-006",
+    "slug": "huawei-brussels-transparency-centre",
+    "title_zh": "华为布鲁塞尔网络安全透明中心",
+    "title_en": "Huawei Brussels Transparency Centre",
+    "status_code": "established",
+    "status_zh": "长期案例",
+    "region_group": "欧洲",
+    "regions": [
+      "欧洲"
+    ],
+    "industry_group": "ICT 与通信设备",
+    "business_model_group": "B2B + 信任/合规基础设施",
+    "business_model_tags": [
+      "B2B",
+      "专业服务/基础设施"
+    ],
+    "scope_group": "区域",
+    "evidence_tier": "Seed",
+    "evidence_maturity": "成熟案例简报",
+    "question_tags": [
+      "风险与合规",
+      "生态与伙伴",
+      "组织与治理",
+      "数据与技术"
+    ],
+    "gemca_domain_ids": [
+      "GEM-D01",
+      "GEM-D07",
+      "GEM-D08",
+      "GEM-D09"
+    ],
+    "abstract_zh": "面对高监管与高信任门槛市场，以透明、验证和利益相关者协作构建制度性承接能力。",
+    "source_count": 1,
+    "last_reviewed_date": "2026-10-08",
+    "last_verified_date": null,
+    "knowledge_domains": [
+      "战略、组合与治理",
+      "风险、合规与韧性",
+      "数据、技术与数字系统",
+      "生态、合作与影响力"
+    ]
+  },
+  {
+    "case_id": "CASE-007",
+    "slug": "geely-volvo-cars",
+    "title_zh": "吉利 × Volvo Cars",
+    "title_en": "Geely × Volvo Cars",
+    "status_code": "established",
+    "status_zh": "长期案例",
+    "region_group": "欧洲 / 东亚",
+    "regions": [
+      "欧洲",
+      "东亚"
+    ],
+    "industry_group": "汽车与出行",
+    "business_model_group": "跨境并购 + 多品牌组合",
+    "business_model_tags": [
+      "跨境并购",
+      "多品牌经营"
+    ],
+    "scope_group": "全球",
+    "evidence_tier": "Seed",
+    "evidence_maturity": "成熟案例简报",
+    "question_tags": [
+      "并购与整合",
+      "组织与治理",
+      "品牌与产品",
+      "学习与能力"
+    ],
+    "gemca_domain_ids": [
+      "GEM-D01",
+      "GEM-D03",
+      "GEM-D04",
+      "GEM-D06",
+      "GEM-D10"
+    ],
+    "abstract_zh": "以跨境所有权和品牌/组织相对独立为观察点，研究全球资产组合与协同边界。",
+    "source_count": 1,
+    "last_reviewed_date": "2026-10-08",
+    "last_verified_date": null,
+    "knowledge_domains": [
+      "战略、组合与治理",
+      "产品、品牌与本地化",
+      "组织、人才与文化",
+      "财务、资本与绩效",
+      "知识、学习与能力整合"
+    ]
+  },
+  {
+    "case_id": "CASE-008",
+    "slug": "xiaomi-india-localization",
+    "title_zh": "小米印度本地制造",
+    "title_en": "Xiaomi India Localization",
+    "status_code": "tracking",
+    "status_zh": "持续追踪",
+    "region_group": "南亚",
+    "regions": [
+      "南亚"
+    ],
+    "industry_group": "消费电子",
+    "business_model_group": "D2C/零售 + 本地制造",
+    "business_model_tags": [
+      "D2C",
+      "零售型",
+      "本地制造"
+    ],
+    "scope_group": "单一市场",
+    "evidence_tier": "Seed",
+    "evidence_maturity": "起始证据集",
+    "question_tags": [
+      "市场进入与扩张",
+      "产品与本地化",
+      "运营与供应链",
+      "风险与合规"
+    ],
+    "gemca_domain_ids": [
+      "GEM-D02",
+      "GEM-D03",
+      "GEM-D05",
+      "GEM-D07",
+      "GEM-D09"
+    ],
+    "abstract_zh": "从市场进入、价格定位到本地制造与渠道，观察高增长市场中的本地化深度和监管约束。",
+    "source_count": 1,
+    "last_reviewed_date": "2026-10-08",
+    "last_verified_date": null,
+    "knowledge_domains": [
+      "市场、客户与商业",
+      "产品、品牌与本地化",
+      "运营、供应链与交付",
+      "风险、合规与韧性",
+      "生态、合作与影响力"
+    ]
+  },
+  {
+    "case_id": "CASE-009",
+    "slug": "catl-hungary",
+    "title_zh": "宁德时代匈牙利",
+    "title_en": "CATL Hungary",
+    "status_code": "tracking",
+    "status_zh": "持续追踪",
+    "region_group": "欧洲",
+    "regions": [
+      "欧洲"
+    ],
+    "industry_group": "电池与新能源",
+    "business_model_group": "B2B 制造",
+    "business_model_tags": [
+      "B2B",
+      "制造型"
+    ],
+    "scope_group": "区域",
+    "evidence_tier": "Seed",
+    "evidence_maturity": "起始证据集",
+    "question_tags": [
+      "市场进入与扩张",
+      "运营与供应链",
+      "生态与伙伴",
+      "风险与合规"
+    ],
+    "gemca_domain_ids": [
+      "GEM-D01",
+      "GEM-D05",
+      "GEM-D07",
+      "GEM-D09"
+    ],
+    "abstract_zh": "围绕欧洲产能布局、客户邻近、人才与供应链生态，观察 B2B 制造企业的区域经营嵌入。",
+    "source_count": 1,
+    "last_reviewed_date": "2026-10-08",
+    "last_verified_date": null,
+    "knowledge_domains": [
+      "战略、组合与治理",
+      "运营、供应链与交付",
+      "风险、合规与韧性",
+      "生态、合作与影响力"
+    ]
+  },
+  {
+    "case_id": "CASE-010",
+    "slug": "tiktok-u-s-data-governance",
+    "title_zh": "TikTok 美国数据治理",
+    "title_en": "TikTok U.S. Data Governance",
+    "status_code": "tracking",
+    "status_zh": "持续追踪",
+    "region_group": "北美",
+    "regions": [
+      "北美"
+    ],
+    "industry_group": "数字平台",
+    "business_model_group": "平台 + 广告/内容",
+    "business_model_tags": [
+      "平台型",
+      "广告/内容"
+    ],
+    "scope_group": "单一市场",
+    "evidence_tier": "Brief",
+    "evidence_maturity": "案例简报 · 6 个来源",
+    "question_tags": [
+      "风险与合规",
+      "数据与技术",
+      "组织与治理",
+      "生态与伙伴"
+    ],
+    "gemca_domain_ids": [
+      "GEM-D01",
+      "GEM-D07",
+      "GEM-D08",
+      "GEM-D09"
+    ],
+    "abstract_zh": "数据、治理、监管和组织边界成为市场持续经营条件，展示“产品成功≠经营可持续”。",
+    "source_count": 6,
+    "last_reviewed_date": "2026-10-08",
+    "last_verified_date": "2026-10-08",
+    "knowledge_domains": [
+      "战略、组合与治理",
+      "风险、合规与韧性",
+      "数据、技术与数字系统",
+      "生态、合作与影响力"
+    ]
+  },
+  {
+    "case_id": "CASE-011",
+    "slug": "netflix-india-recalibration",
+    "title_zh": "Netflix 印度市场校准",
+    "title_en": "Netflix India Recalibration",
+    "status_code": "tracking",
+    "status_zh": "持续追踪",
+    "region_group": "南亚",
+    "regions": [
+      "南亚"
+    ],
+    "industry_group": "媒体与娱乐",
+    "business_model_group": "订阅平台",
+    "business_model_tags": [
+      "订阅型",
+      "平台型"
+    ],
+    "scope_group": "单一市场",
+    "evidence_tier": "Seed",
+    "evidence_maturity": "起始证据集",
+    "question_tags": [
+      "市场与客户",
+      "产品与本地化",
+      "商业模式与增长",
+      "学习与能力"
+    ],
+    "gemca_domain_ids": [
+      "GEM-D02",
+      "GEM-D03",
+      "GEM-D06",
+      "GEM-D10"
+    ],
+    "abstract_zh": "通过定价、内容与用户增长策略的持续调整，观察价值主张与商业模型的反馈校准。",
+    "source_count": 1,
+    "last_reviewed_date": "2026-10-08",
+    "last_verified_date": null,
+    "knowledge_domains": [
+      "市场、客户与商业",
+      "产品、品牌与本地化",
+      "财务、资本与绩效",
+      "知识、学习与能力整合"
+    ]
+  },
+  {
+    "case_id": "CASE-012",
+    "slug": "temu-europe-local-seller-model",
+    "title_zh": "Temu 欧洲本地卖家模式",
+    "title_en": "Temu Europe Local Seller Model",
+    "status_code": "tracking",
+    "status_zh": "持续追踪",
+    "region_group": "欧洲",
+    "regions": [
+      "欧洲"
+    ],
+    "industry_group": "零售与电商",
+    "business_model_group": "Marketplace + 本地卖家",
+    "business_model_tags": [
+      "Marketplace",
+      "平台型"
+    ],
+    "scope_group": "区域",
+    "evidence_tier": "Seed",
+    "evidence_maturity": "起始证据集",
+    "question_tags": [
+      "商业模式与增长",
+      "运营与供应链",
+      "风险与合规",
+      "生态与伙伴"
+    ],
+    "gemca_domain_ids": [
+      "GEM-D01",
+      "GEM-D02",
+      "GEM-D05",
+      "GEM-D07",
+      "GEM-D09"
+    ],
+    "abstract_zh": "从跨境供给向本地卖家与本地履约演化，观察监管、速度与平台商业模式之间的再平衡。",
+    "source_count": 1,
+    "last_reviewed_date": "2026-10-08",
+    "last_verified_date": null,
+    "knowledge_domains": [
+      "战略、组合与治理",
+      "市场、客户与商业",
+      "运营、供应链与交付",
+      "风险、合规与韧性",
+      "生态、合作与影响力"
+    ]
+  },
+  {
+    "case_id": "CASE-013",
+    "slug": "toyota-kentucky-localization",
+    "title_zh": "丰田北美本地化：肯塔基制造与管理",
+    "title_en": "Toyota Kentucky Localization",
+    "status_code": "established",
+    "status_zh": "长期案例",
+    "region_group": "北美",
+    "regions": [
+      "北美"
+    ],
+    "industry_group": "汽车与出行",
+    "business_model_group": "制造 + 经销网络",
+    "business_model_tags": [
+      "制造型",
+      "经销网络"
+    ],
+    "scope_group": "区域",
+    "evidence_tier": "Developing",
+    "evidence_maturity": "发展中 · 4 个来源",
+    "question_tags": [
+      "市场进入与扩张",
+      "组织与治理",
+      "运营与供应链",
+      "学习与能力"
+    ],
+    "gemca_domain_ids": [
+      "GEM-D01",
+      "GEM-D04",
+      "GEM-D05",
+      "GEM-D09",
+      "GEM-D10"
+    ],
+    "abstract_zh": "从出口到本地制造，再到北美管理本地化，观察“在当地制造”如何逐步变成“在当地经营”。",
+    "source_count": 4,
+    "last_reviewed_date": "2026-10-08",
+    "last_verified_date": null,
+    "knowledge_domains": [
+      "战略、组合与治理",
+      "组织、人才与文化",
+      "运营、供应链与交付",
+      "生态、合作与影响力",
+      "知识、学习与能力整合"
+    ]
+  },
+  {
+    "case_id": "CASE-014",
+    "slug": "ikea-india",
+    "title_zh": "IKEA 印度：产品、价格与全渠道适配",
+    "title_en": "IKEA India",
+    "status_code": "tracking",
+    "status_zh": "持续追踪",
+    "region_group": "南亚",
+    "regions": [
+      "南亚"
+    ],
+    "industry_group": "家居零售",
+    "business_model_group": "直营零售 + 全渠道",
+    "business_model_tags": [
+      "零售型",
+      "全渠道"
+    ],
+    "scope_group": "单一市场",
+    "evidence_tier": "Developing",
+    "evidence_maturity": "发展中 · 3 个来源",
+    "question_tags": [
+      "产品与本地化",
+      "市场进入与扩张",
+      "运营与供应链",
+      "商业模式与增长"
+    ],
+    "gemca_domain_ids": [
+      "GEM-D02",
+      "GEM-D03",
+      "GEM-D05",
+      "GEM-D09"
+    ],
+    "abstract_zh": "IKEA 进入印度时同时处理低价位、产品组合、餐饮、门店形式、本地采购和电商触点。",
+    "source_count": 3,
+    "last_reviewed_date": "2026-10-08",
+    "last_verified_date": null,
+    "knowledge_domains": [
+      "市场、客户与商业",
+      "产品、品牌与本地化",
+      "运营、供应链与交付",
+      "生态、合作与影响力"
+    ]
+  },
+  {
+    "case_id": "CASE-015",
+    "slug": "spotify-india",
+    "title_zh": "Spotify 印度：数字产品的深度本地适配",
+    "title_en": "Spotify India",
+    "status_code": "established",
+    "status_zh": "长期案例",
+    "region_group": "南亚",
+    "regions": [
+      "南亚"
+    ],
+    "industry_group": "媒体与娱乐",
+    "business_model_group": "Freemium + 订阅平台",
+    "business_model_tags": [
+      "Freemium",
+      "订阅型",
+      "平台型"
+    ],
+    "scope_group": "单一市场",
+    "evidence_tier": "Developing",
+    "evidence_maturity": "发展中 · 3 个来源",
+    "question_tags": [
+      "产品与本地化",
+      "市场与客户",
+      "商业模式与增长",
+      "数据与技术"
+    ],
+    "gemca_domain_ids": [
+      "GEM-D02",
+      "GEM-D03",
+      "GEM-D08"
+    ],
+    "abstract_zh": "Spotify 的印度首发把语言、推荐、免费层体验和本地内容直接写进产品，而不是仅做内容上架。",
+    "source_count": 3,
+    "last_reviewed_date": "2026-10-08",
+    "last_verified_date": null,
+    "knowledge_domains": [
+      "市场、客户与商业",
+      "产品、品牌与本地化",
+      "数据、技术与数字系统"
+    ]
+  },
+  {
+    "case_id": "CASE-016",
+    "slug": "samsung-vietnam-rd",
+    "title_zh": "三星越南：从制造基地到研发节点",
+    "title_en": "Samsung Vietnam R&D",
+    "status_code": "tracking",
+    "status_zh": "持续追踪",
+    "region_group": "东南亚",
+    "regions": [
+      "东南亚"
+    ],
+    "industry_group": "电子与半导体",
+    "business_model_group": "制造 + R&D",
+    "business_model_tags": [
+      "制造型"
+    ],
+    "scope_group": "区域",
+    "evidence_tier": "Developing",
+    "evidence_maturity": "发展中 · 3 个来源",
+    "question_tags": [
+      "运营与供应链",
+      "组织与治理",
+      "数据与技术",
+      "学习与能力"
+    ],
+    "gemca_domain_ids": [
+      "GEM-D04",
+      "GEM-D05",
+      "GEM-D08",
+      "GEM-D09",
+      "GEM-D10"
+    ],
+    "abstract_zh": "三星在越南的长期制造基础进一步扩展到大规模研发中心，呈现东道国角色从生产节点向知识节点升级。",
+    "source_count": 3,
+    "last_reviewed_date": "2026-10-08",
+    "last_verified_date": null,
+    "knowledge_domains": [
+      "组织、人才与文化",
+      "运营、供应链与交付",
+      "数据、技术与数字系统",
+      "生态、合作与影响力",
+      "知识、学习与能力整合"
+    ]
+  },
+  {
+    "case_id": "CASE-017",
+    "slug": "unilever-india-innovation",
+    "title_zh": "Unilever × 印度：本地洞察与全球创新网络",
+    "title_en": "Unilever India Innovation Network",
+    "status_code": "tracking",
+    "status_zh": "持续追踪",
+    "region_group": "南亚",
+    "regions": [
+      "南亚"
+    ],
+    "industry_group": "消费品",
+    "business_model_group": "品牌组合 + 本地运营公司",
+    "business_model_tags": [
+      "多品牌经营",
+      "本地运营"
+    ],
+    "scope_group": "多区域",
+    "evidence_tier": "Developing",
+    "evidence_maturity": "发展中 · 4 个来源",
+    "question_tags": [
+      "产品与本地化",
+      "组织与治理",
+      "数据与技术",
+      "学习与能力"
+    ],
+    "gemca_domain_ids": [
+      "GEM-D02",
+      "GEM-D03",
+      "GEM-D04",
+      "GEM-D08",
+      "GEM-D10"
+    ],
+    "abstract_zh": "Unilever/HUL 展示了本地消费者洞察、R&D、渠道和产品创新如何既服务印度，也进入更广泛的全球创新网络。",
+    "source_count": 4,
+    "last_reviewed_date": "2026-10-08",
+    "last_verified_date": null,
+    "knowledge_domains": [
+      "市场、客户与商业",
+      "产品、品牌与本地化",
+      "组织、人才与文化",
+      "数据、技术与数字系统",
+      "知识、学习与能力整合"
+    ]
+  },
+  {
+    "case_id": "CASE-018",
+    "slug": "mercadolibre-brazil-logistics",
+    "title_zh": "Mercado Libre 巴西：平台与物流基础设施",
+    "title_en": "Mercado Libre Brazil Logistics",
+    "status_code": "tracking",
+    "status_zh": "持续追踪",
+    "region_group": "拉美",
+    "regions": [
+      "拉美"
+    ],
+    "industry_group": "零售与电商",
+    "business_model_group": "Marketplace + Fintech + Logistics",
+    "business_model_tags": [
+      "Marketplace",
+      "平台型",
+      "金融科技",
+      "物流基础设施"
+    ],
+    "scope_group": "区域",
+    "evidence_tier": "Seed",
+    "evidence_maturity": "研究种子 · 2 个来源",
+    "question_tags": [
+      "商业模式与增长",
+      "运营与供应链",
+      "数据与技术",
+      "生态与伙伴"
+    ],
+    "gemca_domain_ids": [
+      "GEM-D02",
+      "GEM-D05",
+      "GEM-D06",
+      "GEM-D08",
+      "GEM-D09"
+    ],
+    "abstract_zh": "拉美平台企业把支付、物流和商业基础设施一起内化，适合观察“平台扩张”何时变成经营基础设施建设。",
+    "source_count": 2,
+    "last_reviewed_date": "2026-10-08",
+    "last_verified_date": null,
+    "knowledge_domains": [
+      "市场、客户与商业",
+      "运营、供应链与交付",
+      "财务、资本与绩效",
+      "数据、技术与数字系统",
+      "生态、合作与影响力"
+    ]
+  }
+]

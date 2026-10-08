@@ -1,0 +1,11 @@
+{
+  "name": "GEMTIA · Global Enterprise Management",
+  "short_name": "GEMTIA",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b1f3a",
+  "icons": [],
+  "description": "Thinking · Intelligence · Action · 全球经营知识与实践平台"
+}

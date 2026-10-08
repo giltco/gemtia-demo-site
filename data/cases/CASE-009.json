@@ -1,0 +1,64 @@
+{
+  "case_id": "CASE-009",
+  "slug": "catl-hungary",
+  "title_zh": "宁德时代匈牙利",
+  "title_en": "CATL Hungary",
+  "status_zh": "持续追踪",
+  "geography_label": "中国→匈牙利/欧洲",
+  "industry_label": "电池/新能源",
+  "gemca_domain_ids": [
+    "GEM-D01",
+    "GEM-D05",
+    "GEM-D07",
+    "GEM-D09"
+  ],
+  "abstract_zh": "围绕欧洲产能布局、客户邻近、人才与供应链生态，观察 B2B 制造企业的区域经营嵌入。",
+  "sources": [
+    {
+      "label": "CATL",
+      "url": "https://www.catl.com/en/"
+    }
+  ],
+  "region_group": "欧洲",
+  "industry_group": "电池与新能源",
+  "question_tags": [
+    "市场进入与扩张",
+    "运营与供应链",
+    "生态与伙伴",
+    "风险与合规"
+  ],
+  "management_questions_zh": [
+    "B2B 制造企业为什么要把产能放到客户附近？",
+    "大型投资如何同时依赖人才、能源、供应商与政策环境？",
+    "区域产能能否形成更深的客户与生态嵌入？"
+  ],
+  "boundary_note_zh": "产能投资代表长期承诺，但不等于项目已达到稳定产能、收益或生态成熟。",
+  "evidence_maturity": "起始证据集",
+  "status_code": "tracking",
+  "domain_labels_zh": [
+    "战略、组合与治理",
+    "运营、供应链与交付",
+    "风险、合规与韧性",
+    "生态、合作与影响力"
+  ],
+  "business_model_group": "B2B 制造",
+  "scope_group": "区域",
+  "evidence_tier": "Seed",
+  "timeline": [],
+  "observed_facts": [],
+  "regions": [
+    "欧洲"
+  ],
+  "business_model_tags": [
+    "B2B",
+    "制造型"
+  ],
+  "last_reviewed_date": "2026-10-08",
+  "source_count": 1,
+  "knowledge_domains": [
+    "战略、组合与治理",
+    "运营、供应链与交付",
+    "风险、合规与韧性",
+    "生态、合作与影响力"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "case_id": "CASE-018",
+  "slug": "mercadolibre-brazil-logistics",
+  "title_zh": "Mercado Libre 巴西：平台与物流基础设施",
+  "title_en": "Mercado Libre Brazil Logistics",
+  "status_zh": "持续追踪",
+  "status_code": "tracking",
+  "region_group": "拉美",
+  "industry_group": "零售与电商",
+  "business_model_group": "Marketplace + Fintech + Logistics",
+  "scope_group": "区域",
+  "evidence_tier": "Seed",
+  "evidence_maturity": "研究种子 · 2 个来源",
+  "abstract_zh": "拉美平台企业把支付、物流和商业基础设施一起内化，适合观察“平台扩张”何时变成经营基础设施建设。",
+  "gemca_domain_ids": [
+    "GEM-D02",
+    "GEM-D05",
+    "GEM-D06",
+    "GEM-D08",
+    "GEM-D09"
+  ],
+  "question_tags": [
+    "商业模式与增长",
+    "运营与供应链",
+    "数据与技术",
+    "生态与伙伴"
+  ],
+  "management_questions_zh": [
+    "平台为什么需要持续内化物流和支付能力？",
+    "区域规模如何改变基础设施投资回报？",
+    "本地物流网络与数字平台效应如何相互增强？"
+  ],
+  "boundary_note_zh": "当前为研究种子，需进一步补充巴西具体投资、物流节点与独立竞争数据。",
+  "sources": [
+    {
+      "label": "MercadoLibre 2025 Form 10-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959026000006/meli-20251231.htm",
+      "type": "监管披露",
+      "date": "2026",
+      "role": "公司业务与地区经营基础"
+    },
+    {
+      "label": "Mercado Libre Investor Relations",
+      "url": "https://investor.mercadolibre.com/",
+      "type": "公司投资者资料",
+      "date": "ongoing",
+      "role": "持续补充经营数据"
+    }
+  ],
+  "timeline": [],
+  "observed_facts": [],
+  "domain_labels_zh": [
+    "市场、客户与商业",
+    "运营、供应链与交付",
+    "财务、资本与绩效",
+    "数据、技术与数字系统",
+    "生态、合作与影响力"
+  ],
+  "regions": [
+    "拉美"
+  ],
+  "business_model_tags": [
+    "Marketplace",
+    "平台型",
+    "金融科技",
+    "物流基础设施"
+  ],
+  "last_reviewed_date": "2026-10-08",
+  "source_count": 2,
+  "knowledge_domains": [
+    "市场、客户与商业",
+    "运营、供应链与交付",
+    "财务、资本与绩效",
+    "数据、技术与数字系统",
+    "生态、合作与影响力"
+  ]
+}
